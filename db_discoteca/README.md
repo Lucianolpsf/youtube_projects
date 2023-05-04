@@ -4,13 +4,12 @@ Este banco de dados tem objetivo educacional e foi desenvolvido junto aos alunos
 
 Abaixo você encontrá uma breve descrição dos objetos implementados neste banco e o script SQL desenvolvido.
 
----
+## Modelagem lógica
 
+![Modelagem lógica db_discoteca](../img/db_discoteca.png)
 
-
-## **Dados padronizados de cada tabela**
+## Chaves primarias de cada tabela
     
-
 Aqui podemos ver as chaves primarias e suas respectivas tabelas.
     
 |TABLES|PRIMARY KEYS|
@@ -21,7 +20,7 @@ Aqui podemos ver as chaves primarias e suas respectivas tabelas.
 |disco|id|
 |musica|id|
 
-## **Chaves estrangeiras e seus relacionamentos**
+## Chaves estrangeiras e seus relacionamentos
 
 |FOREIGN KEYS|CONSTRAINT|RELATIONS|
 |-|-|-|

@@ -1,12 +1,14 @@
 # DB_FAMILIA DATABASE
-
+---
 Este banco de dados tem objetivo educacional 
 
 Abaixo você encontrá uma breve descrição dos objetos implementados neste banco e ainda neste repositorio tera acesso ao script da implementanção fisica para que posso estudar e realizar seus proprios testes em SQL.
 
----
+## Modelagem lógica
 
-## **CONSTRAINS PADRONIZADAS**
+![Modelo logico db_familia](../img/db_familia.png)
+
+## Constraints padronizadas
     
 
 Aqui podemos ver as chaves primarias e suas respectivas tables.
@@ -17,7 +19,7 @@ Aqui podemos ver as chaves primarias e suas respectivas tables.
 |tb_mae  |id|-|
 |tb_filho|id|-|
 
-## **CHAVES ESTRANGEIRAS E SEUS RELACIONAMENTOS**
+## Chaves estrangeiras e seus relacionamentos
 
 |FOREIGN KEYS|CONSTRAINT|RELATIONS|
 |-|-|-|

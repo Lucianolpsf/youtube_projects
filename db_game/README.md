@@ -1,13 +1,14 @@
 # DB_GAME DATABASE
-
+---
 Este banco de dados tem objetivo educacional 
 
 Abaixo você encontrá uma breve descrição dos objetos implementados neste banco e ainda neste repositorio tera acesso ao script da implementanção fisica para que posso estudar e realizar seus proprios testes em SQL.
 
----
+## Modelagem lógica
 
-## **CONSTRAINS PADRONIZADAS**
-    
+![Modelagem logica db_game](../img/db_game.png)
+
+## Constraints padronizadas
 
 Aqui podemos ver as chaves primarias e suas respectivas constraints.
     
@@ -18,7 +19,7 @@ Aqui podemos ver as chaves primarias e suas respectivas constraints.
 |tb_jogo_console|id_jogo|-|
 |tb_jogo_console|id_console|-|
 
-## **CHAVES ESTRANGEIRAS E SEUS RELACIONAMENTOS**
+## Chaves estrangeiras e seus relacionamentos
 
 |FOREIGN KEYS|CONSTRAINT|RELATIONS|
 |-|-|-|

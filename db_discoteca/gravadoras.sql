@@ -1,0 +1,28 @@
+INSERT INTO tb_gravadora
+	(nome)
+VALUES
+	('Universal Music Brasil'),
+	('Sony Music Brasil'),
+	('Warner Music Brasil'),
+	('Som Livre'),
+	('Deckdisc'),
+	('Biscoito Fino'),
+	('Tratore'),
+	('Coqueiro Verde Records'),
+	('MZA Music'),
+	('Independente Music'),
+	('Atração Fonográfica'),
+	('Balaclava Records'),
+	('Circus Produções Artísticas'),
+	('Delira Musica'),
+	('Dubas Música'),
+	('Farol Music'),
+	('Frika Records'),
+	('Midas Music'),
+	('Natura Musical'),
+	('Pommelo Produções'),
+	('Selo Sesc'),
+	("Slap - Som Livre Artists' Platform'"),
+	('Sony Music Gospel'),
+	('Toca Discos'),
+	('YB Music');

@@ -1,0 +1,6002 @@
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shannon",1927,1292),
+  ("Nadine",2329,1452),
+  ("Macy",14,1150),
+  ("Galvin",35,1561),
+  ("Carl",486,1467),
+  ("Cheyenne",896,1296),
+  ("Kalia",1765,540),
+  ("Alden",2390,620),
+  ("Hakeem",599,201),
+  ("Jayme",1386,1847);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mannix",2402,535),
+  ("Gabriel",1924,911),
+  ("Shaine",1989,1092),
+  ("Lucian",1053,1433),
+  ("Illiana",2280,503),
+  ("Adrienne",430,720),
+  ("Kylee",2004,1782),
+  ("Ferdinand",2068,53),
+  ("Kenneth",2131,2389),
+  ("Stone",2857,2158);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alexandra",222,575),
+  ("Ezra",212,1940),
+  ("Sasha",2709,178),
+  ("Keelie",2384,1620),
+  ("Ebony",394,45),
+  ("Cooper",1181,256),
+  ("Marah",2037,1618),
+  ("Marvin",1250,726),
+  ("Aidan",1645,1165),
+  ("Peter",827,1786);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Heather",2915,646),
+  ("Gavin",1487,137),
+  ("Mark",2533,2190),
+  ("Caldwell",1687,1474),
+  ("Rina",435,2037),
+  ("TaShya",389,305),
+  ("Cedric",1824,1541),
+  ("Stacy",797,671),
+  ("Heidi",1360,2188),
+  ("Melvin",689,421);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jenna",597,178),
+  ("Geoffrey",1113,2067),
+  ("Nyssa",1155,1734),
+  ("Illana",1254,1701),
+  ("Damian",1264,1576),
+  ("Ayanna",1311,2423),
+  ("Chiquita",2809,649),
+  ("Kai",2440,1125),
+  ("Mohammad",1557,29),
+  ("Clementine",267,1160);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Damon",576,1288),
+  ("Keane",1261,448),
+  ("Cailin",1980,1596),
+  ("Cade",1175,60),
+  ("Forrest",844,1715),
+  ("Caldwell",2015,1757),
+  ("Nora",994,1748),
+  ("Keegan",1197,1318),
+  ("Nyssa",1371,1258),
+  ("Ignacia",1298,2056);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Charissa",167,1433),
+  ("John",2527,1248),
+  ("Lucius",1776,1883),
+  ("Charlotte",903,803),
+  ("Matthew",1980,1041),
+  ("Amber",1435,33),
+  ("Samuel",744,1814),
+  ("Grant",783,2260),
+  ("Kenyon",2376,678),
+  ("Brynne",1002,1474);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brody",1638,362),
+  ("Xaviera",1366,1415),
+  ("Haviva",657,1111),
+  ("William",2460,1605),
+  ("Mollie",121,1112),
+  ("Giselle",592,2066),
+  ("Marshall",357,2043),
+  ("Kenneth",1073,1976),
+  ("Xantha",2044,1894),
+  ("Reece",163,809);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Macy",152,467),
+  ("Jameson",963,567),
+  ("Kyle",1942,1390),
+  ("Graiden",2223,390),
+  ("Mohammad",873,1201),
+  ("Gary",2514,1300),
+  ("Wing",283,1572),
+  ("Mohammad",136,377),
+  ("Driscoll",2906,1489),
+  ("Stewart",328,16);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Justin",707,1443),
+  ("Pandora",1048,999),
+  ("Jackson",2819,1584),
+  ("Cameron",2753,1644),
+  ("Darius",775,83),
+  ("Jescie",2327,981),
+  ("Joseph",1495,406),
+  ("Illana",1529,1761),
+  ("Hilary",2998,191),
+  ("Jordan",2746,1992);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rhona",1777,1898),
+  ("Martina",2670,722),
+  ("Sylvester",1261,496),
+  ("Kamal",266,1397),
+  ("Carla",1628,749),
+  ("Garrett",299,44),
+  ("Reuben",663,353),
+  ("Graham",367,2387),
+  ("Deanna",2845,732),
+  ("Buckminster",250,559);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kato",210,1621),
+  ("Hilda",276,509),
+  ("Leo",703,506),
+  ("Basia",2493,2192),
+  ("Kiayada",2559,1286),
+  ("Fritz",2218,2497),
+  ("May",2047,1258),
+  ("Leigh",1020,1737),
+  ("Portia",2390,2033),
+  ("Iris",2731,1845);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Quinn",2085,1939),
+  ("Ursa",2933,225),
+  ("Kennedy",1311,294),
+  ("Jennifer",2423,1923),
+  ("Sean",281,2062),
+  ("Cheyenne",2380,702),
+  ("Ella",2089,1280),
+  ("Madaline",1036,1284),
+  ("Nita",1163,958),
+  ("Jaquelyn",2570,570);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rinah",315,424),
+  ("Jason",2510,848),
+  ("Richard",1960,1886),
+  ("Kim",2509,979),
+  ("Shea",2089,896),
+  ("Quinlan",152,2301),
+  ("Melinda",1737,662),
+  ("April",1128,1329),
+  ("Prescott",1050,1887),
+  ("Noah",2038,1649);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Arsenio",302,382),
+  ("Edward",91,1855),
+  ("Tucker",475,576),
+  ("Seth",2881,2271),
+  ("Rhoda",642,1800),
+  ("Edward",1604,2364),
+  ("Armand",1530,2119),
+  ("Anne",1120,1377),
+  ("Cassady",2496,686),
+  ("William",826,349);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cailin",1361,2230),
+  ("Lois",2965,780),
+  ("Zephania",1877,546),
+  ("Roth",51,452),
+  ("Angelica",2280,2251),
+  ("Kylee",1025,2165),
+  ("Kirby",1308,1414),
+  ("Yoshi",1731,16),
+  ("Hashim",1815,2134),
+  ("Alice",2675,1468);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Channing",1795,1579),
+  ("April",1172,1916),
+  ("Ursula",1102,1719),
+  ("Quyn",1909,1594),
+  ("Calvin",492,290),
+  ("Rama",1974,2249),
+  ("Trevor",434,568),
+  ("Ali",1350,184),
+  ("Carissa",1882,1970),
+  ("Colton",555,385);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dean",1812,1049),
+  ("Sonia",2896,894),
+  ("Macy",2202,258),
+  ("Madison",1284,2306),
+  ("Olympia",681,384),
+  ("Dorothy",242,2363),
+  ("Fletcher",80,2310),
+  ("Martena",1466,2358),
+  ("Shaine",1233,571),
+  ("Price",830,1551);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Orli",2051,1410),
+  ("Inga",83,2171),
+  ("Maya",867,1122),
+  ("Remedios",114,188),
+  ("Nichole",174,14),
+  ("Wyoming",2755,590),
+  ("Brady",1897,909),
+  ("Tyrone",1298,2106),
+  ("Melvin",454,2272),
+  ("Yoshi",1941,1073);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hoyt",2939,267),
+  ("Caldwell",2680,157),
+  ("Ursa",1823,2135),
+  ("Felicia",1294,1734),
+  ("Ignacia",984,2134),
+  ("Julian",2560,709),
+  ("Erasmus",1613,1884),
+  ("Allen",784,762),
+  ("Ina",1398,2268),
+  ("Nolan",1748,2052);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ulysses",333,2275),
+  ("Savannah",2626,1401),
+  ("Thomas",2983,835),
+  ("Adrian",1559,1348),
+  ("Quinn",1586,97),
+  ("Nicole",1588,1519),
+  ("Jakeem",2839,2121),
+  ("Brody",2645,2256),
+  ("Bradley",2802,1750),
+  ("Zorita",319,703);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cora",2180,2258),
+  ("Kai",2479,1133),
+  ("Leigh",1886,2343),
+  ("Jordan",2662,346),
+  ("Dylan",1511,226),
+  ("Nerea",1971,2009),
+  ("Scarlett",1069,594),
+  ("Hu",2259,1606),
+  ("Richard",861,462),
+  ("Ralph",2284,1648);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hamish",1172,1528),
+  ("Mason",1219,2084),
+  ("Amber",2288,942),
+  ("Iliana",708,2175),
+  ("Grant",1664,758),
+  ("Giacomo",2255,1082),
+  ("Yetta",1822,279),
+  ("Summer",2938,1034),
+  ("Megan",933,1986),
+  ("Barclay",1233,145);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shelly",2409,1155),
+  ("Naida",1983,1294),
+  ("Yvette",1919,2157),
+  ("Rudyard",983,256),
+  ("Felix",239,1221),
+  ("Hedda",900,1070),
+  ("MacKensie",2046,1640),
+  ("Imogene",201,589),
+  ("Aline",193,17),
+  ("Boris",2215,960);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tate",1815,483),
+  ("Declan",2596,183),
+  ("Madeson",24,2396),
+  ("Jade",2523,1091),
+  ("Veronica",2694,422),
+  ("Anika",466,540),
+  ("Quon",516,2365),
+  ("Doris",2167,1503),
+  ("Zelda",848,202),
+  ("Drake",1923,549);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dalton",818,949),
+  ("Myles",2147,2040),
+  ("Angelica",2472,956),
+  ("Helen",1473,278),
+  ("Cara",2867,1095),
+  ("Lacey",600,917),
+  ("Gabriel",1011,1601),
+  ("Dillon",9,1809),
+  ("Hyatt",2172,2390),
+  ("Henry",1153,1740);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ariel",1159,386),
+  ("Germaine",1927,1787),
+  ("Tatum",344,1393),
+  ("Macon",1594,1050),
+  ("Tatiana",200,373),
+  ("Ethan",1625,808),
+  ("Helen",1237,2132),
+  ("Shannon",2045,1090),
+  ("Oscar",1184,1296),
+  ("Otto",2030,2109);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elaine",723,1816),
+  ("Unity",765,1932),
+  ("Leonard",2170,2001),
+  ("Maryam",1920,334),
+  ("Tanner",2041,1469),
+  ("Chandler",2821,631),
+  ("Eliana",1497,1587),
+  ("Meghan",1093,1397),
+  ("Chandler",483,2435),
+  ("Charles",569,2194);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Laurel",2984,1481),
+  ("Hoyt",769,1093),
+  ("Ivory",1048,2151),
+  ("Chancellor",1065,77),
+  ("Nyssa",2926,1231),
+  ("Jenna",183,365),
+  ("Clarke",1222,2068),
+  ("Hedley",391,1036),
+  ("Anne",1528,1000),
+  ("Rama",2551,348);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Linda",2339,2054),
+  ("Meredith",2878,1719),
+  ("Keane",930,1921),
+  ("Brennan",1949,2250),
+  ("Kevin",2346,882),
+  ("Mark",523,1111),
+  ("Rogan",850,1463),
+  ("Sylvia",2644,1980),
+  ("Ryder",962,540),
+  ("Quintessa",1074,185);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wing",2281,999),
+  ("Winter",2731,473),
+  ("Nadine",506,1192),
+  ("Larissa",2104,687),
+  ("Robin",1659,1245),
+  ("Tate",2455,591),
+  ("Bernard",77,2137),
+  ("Zoe",2377,47),
+  ("Upton",1523,2307),
+  ("Paula",1845,1583);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Yardley",640,2444),
+  ("Caesar",735,2338),
+  ("Adele",373,838),
+  ("Debra",709,2279),
+  ("Tanek",952,2210),
+  ("Seth",336,484),
+  ("Naomi",1873,1619),
+  ("Carissa",751,2359),
+  ("Sade",2969,2099),
+  ("Abbot",452,26);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tara",2155,174),
+  ("Keith",1149,975),
+  ("Quinn",2219,2088),
+  ("Jorden",965,1284),
+  ("Orli",1297,2367),
+  ("Gwendolyn",2982,2167),
+  ("Reese",1269,1977),
+  ("Cooper",1669,355),
+  ("Ciara",2376,1332),
+  ("Zena",295,1555);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Asher",1411,2147),
+  ("Abra",1125,173),
+  ("Xena",1604,458),
+  ("Brady",1676,1314),
+  ("Quamar",1719,845),
+  ("Ursa",1158,1464),
+  ("Fuller",1692,1983),
+  ("Charity",2330,2172),
+  ("Camden",2174,1589),
+  ("Imani",2127,2129);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dorothy",450,206),
+  ("Rylee",468,1533),
+  ("Kirk",2790,717),
+  ("Whitney",515,702),
+  ("Kevyn",1950,2074),
+  ("Mikayla",296,2221),
+  ("Fritz",1374,1751),
+  ("Geoffrey",2799,2251),
+  ("Kylynn",817,585),
+  ("Burke",2120,327);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Owen",14,1682),
+  ("Neil",1411,1102),
+  ("Rudyard",233,897),
+  ("Hedy",1141,2133),
+  ("Malik",1780,2467),
+  ("Kessie",612,2494),
+  ("Veda",703,2489),
+  ("Ariana",268,1162),
+  ("Keaton",873,1624),
+  ("Walker",1931,1842);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Deacon",1185,1192),
+  ("Indira",2572,679),
+  ("Rebecca",1106,1298),
+  ("Fatima",2006,1375),
+  ("Sage",2322,1841),
+  ("Colby",1073,772),
+  ("Chaney",283,567),
+  ("Oleg",109,1557),
+  ("Anne",948,1394),
+  ("Jaime",2761,2200);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Megan",122,791),
+  ("Vladimir",80,2126),
+  ("Declan",2675,1040),
+  ("Hop",975,430),
+  ("Selma",508,79),
+  ("Rose",1953,621),
+  ("Quinn",2485,654),
+  ("Kristen",221,447),
+  ("Vincent",2720,837),
+  ("Kay",2095,681);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tanner",1689,1020),
+  ("Lionel",1142,754),
+  ("Azalia",2890,565),
+  ("Aaron",2296,844),
+  ("Caldwell",1960,2376),
+  ("Lara",49,1148),
+  ("Scarlett",180,2178),
+  ("Hollee",131,977),
+  ("Florence",1229,841),
+  ("Quamar",106,145);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sophia",1638,506),
+  ("Jamalia",1360,2122),
+  ("Brooke",1097,2243),
+  ("Kellie",1294,2358),
+  ("Rhiannon",2445,1214),
+  ("Burke",560,1187),
+  ("Calista",1695,304),
+  ("Nathaniel",118,537),
+  ("Nichole",1144,80),
+  ("Odysseus",2067,1410);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Warren",1156,2392),
+  ("Thor",1478,631),
+  ("Phoebe",2443,1730),
+  ("Jenette",806,1290),
+  ("Raven",1481,2354),
+  ("Lael",372,259),
+  ("Destiny",530,962),
+  ("Paula",70,1644),
+  ("Brenden",37,326),
+  ("Cara",1562,2093);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Madonna",2417,169),
+  ("Lucian",481,17),
+  ("Christine",2585,1870),
+  ("Irma",1908,2185),
+  ("Kane",777,2191),
+  ("Illana",2110,130),
+  ("Kylie",602,2103),
+  ("Vincent",1113,2011),
+  ("Thor",1059,2278),
+  ("Grant",2546,178);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Katelyn",1480,728),
+  ("Shelley",1757,2421),
+  ("Kelly",471,46),
+  ("Kylan",955,472),
+  ("Myles",896,1452),
+  ("Jada",2596,1042),
+  ("Violet",329,1018),
+  ("Herrod",1626,1957),
+  ("Sean",1672,873),
+  ("Brock",496,1671);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hayfa",1818,1214),
+  ("Katelyn",125,843),
+  ("Hadley",2060,682),
+  ("Gregory",1561,2491),
+  ("Oscar",2320,2459),
+  ("Kennedy",2746,2336),
+  ("Ora",248,1777),
+  ("Alexander",1577,2450),
+  ("Shellie",400,74),
+  ("Shaine",833,2082);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kiayada",2607,977),
+  ("Vielka",1181,2108),
+  ("Dana",1944,839),
+  ("Hiram",1166,898),
+  ("Jackson",1629,1965),
+  ("Calista",1489,256),
+  ("Ryan",1654,2001),
+  ("Aileen",1901,195),
+  ("Hyatt",1309,1099),
+  ("Harrison",226,1018);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Audrey",1065,877),
+  ("Zephr",994,1995),
+  ("Ferris",2701,2120),
+  ("Baxter",2049,2391),
+  ("Warren",426,2244),
+  ("Bert",600,2126),
+  ("Cullen",1532,343),
+  ("Gretchen",2261,1742),
+  ("Garth",1863,1060),
+  ("Fay",2329,458);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Medge",2165,1956),
+  ("Regan",1861,2119),
+  ("Vincent",2034,1308),
+  ("Savannah",2251,1117),
+  ("Bianca",579,748),
+  ("Britanni",1165,1020),
+  ("Hunter",1051,522),
+  ("Ella",373,116),
+  ("Graiden",1833,1000),
+  ("Melyssa",2557,1462);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Austin",3000,552),
+  ("Serena",2321,244),
+  ("Prescott",2484,2308),
+  ("Cade",2952,2085),
+  ("Brooke",2353,1276),
+  ("Samuel",2927,1320),
+  ("Irene",2695,1827),
+  ("Stella",1644,514),
+  ("Lionel",1386,1290),
+  ("Rina",2977,964);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nathan",1625,738),
+  ("Brynn",87,770),
+  ("Drew",434,1291),
+  ("Portia",642,1361),
+  ("Grady",1963,1203),
+  ("Abigail",1786,1709),
+  ("Tad",2919,232),
+  ("Jade",2800,1358),
+  ("Darrel",2625,971),
+  ("Justina",2216,397);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Aurora",2313,624),
+  ("Cullen",2524,175),
+  ("Harding",619,1548),
+  ("Minerva",425,589),
+  ("Christopher",710,1421),
+  ("Nathaniel",187,2041),
+  ("Arthur",2591,655),
+  ("Stewart",693,631),
+  ("Ferdinand",2426,259),
+  ("Lenore",1536,1524);
+
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Heidi",390,908),
+  ("Montana",2637,1538),
+  ("Vielka",2798,475),
+  ("Adara",67,662),
+  ("Nora",2280,1997),
+  ("Marsden",342,531),
+  ("Julie",28,1237),
+  ("Tana",2462,1685),
+  ("Denise",1610,119),
+  ("Erasmus",1096,1419);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kyla",2370,2148),
+  ("Keiko",1518,688),
+  ("Hector",2025,1240),
+  ("Kerry",1123,2106),
+  ("Beverly",2144,604),
+  ("Bruce",1695,1381),
+  ("Caryn",693,1548),
+  ("Cyrus",10,645),
+  ("Adria",62,2252),
+  ("Iona",491,2422);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tad",1526,1127),
+  ("Sybill",2213,1780),
+  ("Idona",923,6),
+  ("Halla",753,2211),
+  ("Alexa",253,1806),
+  ("Orlando",2449,1006),
+  ("Clinton",631,2),
+  ("Slade",1623,707),
+  ("Alyssa",2105,1631),
+  ("Brett",2024,1550);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Carl",2118,328),
+  ("Renee",798,1830),
+  ("David",53,858),
+  ("Jescie",185,436),
+  ("Brielle",1080,1324),
+  ("Demetrius",1583,746),
+  ("Macaulay",2182,1678),
+  ("Warren",2554,1841),
+  ("Alfonso",2951,1386),
+  ("Joel",1026,2295);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Roanna",2214,1155),
+  ("Deacon",2306,822),
+  ("Halee",2981,168),
+  ("Neve",2542,733),
+  ("Cynthia",2119,2496),
+  ("Sandra",2114,1135),
+  ("Lysandra",260,996),
+  ("Brady",140,1150),
+  ("Zorita",1291,126),
+  ("Murphy",874,1873);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Edward",944,322),
+  ("Destiny",2461,208),
+  ("Shafira",101,293),
+  ("Velma",2732,1135),
+  ("Russell",2487,1641),
+  ("Fuller",882,1161),
+  ("Summer",2009,1368),
+  ("Madeline",1777,2168),
+  ("Bryar",2860,101),
+  ("Vincent",578,393);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kelly",467,2466),
+  ("Evan",2847,2260),
+  ("Lesley",1728,1371),
+  ("Dawn",651,1889),
+  ("Hanae",1767,586),
+  ("Mallory",2021,1443),
+  ("Neville",703,80),
+  ("Carson",973,1850),
+  ("Gemma",1159,1732),
+  ("Leigh",2076,1935);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Daquan",2811,571),
+  ("Uriel",1832,886),
+  ("Myra",2969,1250),
+  ("Wayne",2968,571),
+  ("Willow",2289,2334),
+  ("Kylynn",2487,723),
+  ("Herrod",2861,479),
+  ("Todd",92,1375),
+  ("Noel",341,1617),
+  ("Kelly",881,406);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Anastasia",621,310),
+  ("Keaton",973,2001),
+  ("Alexander",880,106),
+  ("Zahir",307,2293),
+  ("Kenneth",706,1653),
+  ("Cyrus",156,1357),
+  ("Knox",606,993),
+  ("Hedley",2524,920),
+  ("Idona",2076,1070),
+  ("Felicia",1185,2233);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Griffith",1523,2376),
+  ("Virginia",2168,674),
+  ("Dennis",481,1262),
+  ("Noble",112,42),
+  ("Simone",974,65),
+  ("Aretha",2038,2036),
+  ("Ralph",1059,1583),
+  ("Tamekah",2031,1673),
+  ("Latifah",2933,625),
+  ("Honorato",394,640);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dexter",86,1227),
+  ("Lacy",833,751),
+  ("Mufutau",2972,1767),
+  ("Minerva",1523,616),
+  ("Erin",1836,770),
+  ("Grady",1914,649),
+  ("Denton",1872,2150),
+  ("Clementine",2010,337),
+  ("Kasimir",162,2359),
+  ("Isabella",2435,2319);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lucian",837,1664),
+  ("Lacey",2580,1178),
+  ("Georgia",975,1071),
+  ("Eve",2913,432),
+  ("Cailin",190,32),
+  ("Lance",2934,540),
+  ("Robert",1316,1302),
+  ("Keane",275,969),
+  ("Shaeleigh",275,371),
+  ("Tamekah",1488,1362);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Azalia",1986,1639),
+  ("Carlos",2057,2216),
+  ("Chantale",2219,2191),
+  ("Lara",1614,1957),
+  ("Ariana",2840,2219),
+  ("Jackson",1517,586),
+  ("Naomi",2412,2173),
+  ("Merrill",1051,1289),
+  ("Xenos",2775,729),
+  ("Garth",1397,764);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dolan",699,2160),
+  ("Maxwell",1528,1162),
+  ("Octavia",1753,927),
+  ("Audra",480,522),
+  ("Candice",158,1259),
+  ("Maris",1924,1102),
+  ("Jasmine",2570,1186),
+  ("Hilel",2899,2312),
+  ("Brennan",2209,612),
+  ("Graiden",1034,1547);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jakeem",946,1061),
+  ("Claudia",2439,857),
+  ("Donovan",150,136),
+  ("Adrienne",1489,1748),
+  ("Eleanor",294,218),
+  ("Ivor",2662,284),
+  ("Hilda",41,2409),
+  ("Gavin",1864,794),
+  ("Inez",2038,286),
+  ("Kameko",1332,981);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Irma",2119,977),
+  ("Erica",2333,1248),
+  ("Hoyt",894,116),
+  ("Ira",475,845),
+  ("Daryl",1715,251),
+  ("Lacey",2667,1579),
+  ("Hamilton",2574,642),
+  ("Inga",228,413),
+  ("Bruce",1775,1025),
+  ("Ashton",367,1185);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cherokee",1438,439),
+  ("Upton",1279,2075),
+  ("Petra",1842,1935),
+  ("Kyle",1500,696),
+  ("Paul",608,2252),
+  ("Malcolm",527,244),
+  ("Violet",2472,2156),
+  ("Briar",1576,1697),
+  ("Dora",1539,1857),
+  ("Dora",1801,833);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sigourney",1738,845),
+  ("Lewis",1987,1485),
+  ("Unity",1512,1803),
+  ("Karleigh",591,257),
+  ("Chanda",989,856),
+  ("Stella",540,2079),
+  ("Mufutau",2174,782),
+  ("Kevyn",987,1608),
+  ("Isabella",563,749),
+  ("Joel",219,685);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nerea",106,2208),
+  ("Harriet",2909,560),
+  ("Oleg",1408,654),
+  ("Jakeem",2453,437),
+  ("Marny",89,2104),
+  ("Dillon",1311,570),
+  ("Kuame",1117,777),
+  ("Kevyn",769,2439),
+  ("Lee",141,1659),
+  ("Britanni",988,989);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rinah",82,2405),
+  ("Veronica",1270,1858),
+  ("Willa",1191,994),
+  ("Wayne",489,1281),
+  ("Chester",2716,216),
+  ("Dai",834,1150),
+  ("Larissa",1049,785),
+  ("Zahir",139,2067),
+  ("Hu",2577,2151),
+  ("Myra",1311,1829);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alana",1677,424),
+  ("Yeo",453,2447),
+  ("Denton",1727,488),
+  ("Clare",1235,1810),
+  ("Orlando",1081,127),
+  ("Cullen",1446,1251),
+  ("Baxter",1801,1905),
+  ("Octavia",2903,507),
+  ("Theodore",2453,1455),
+  ("Pearl",393,739);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shaine",747,1565),
+  ("Cecilia",2487,1052),
+  ("Aiko",2864,205),
+  ("Gloria",745,1962),
+  ("Kevyn",2477,2357),
+  ("Forrest",1352,1986),
+  ("Stuart",1749,1098),
+  ("Chava",1245,2424),
+  ("Lance",1556,336),
+  ("Melanie",955,1333);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Josiah",790,887),
+  ("Mannix",2523,527),
+  ("Bevis",1590,2342),
+  ("Dean",578,1874),
+  ("Nero",2984,1217),
+  ("Diana",2576,2251),
+  ("Fallon",235,1195),
+  ("Price",1007,2455),
+  ("Hedda",1623,1166),
+  ("Nadine",1328,529);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Charissa",128,322),
+  ("Colby",926,1504),
+  ("Amaya",2322,583),
+  ("Emery",1090,890),
+  ("Vladimir",2502,2126),
+  ("Jaquelyn",2319,2355),
+  ("Jescie",2075,1600),
+  ("Ciaran",2243,1733),
+  ("Jessamine",1480,1173),
+  ("Zelenia",1129,1699);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dean",1266,1425),
+  ("Ina",2841,1840),
+  ("Ethan",778,832),
+  ("William",876,444),
+  ("Gwendolyn",179,2195),
+  ("Hilary",2719,1150),
+  ("Carolyn",1769,176),
+  ("Burke",1134,1529),
+  ("Lance",1420,1328),
+  ("Callum",2069,1327);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kathleen",2368,2203),
+  ("Phelan",575,1471),
+  ("Quynn",2063,348),
+  ("Ann",1481,395),
+  ("Louis",1717,1138),
+  ("Kermit",2948,1047),
+  ("Malachi",50,2299),
+  ("Virginia",61,2194),
+  ("Erin",1696,1383),
+  ("Fallon",1120,1698);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Fleur",1834,1598),
+  ("Zeph",1107,1347),
+  ("Xenos",2116,2372),
+  ("Daryl",1317,978),
+  ("Lane",269,569),
+  ("Noble",194,136),
+  ("Noah",2230,1824),
+  ("Rashad",1707,1462),
+  ("Wynter",907,805),
+  ("Xaviera",2226,2234);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ella",2131,507),
+  ("Ivana",2568,1607),
+  ("Kasper",2331,619),
+  ("Aspen",2263,1089),
+  ("Raymond",1472,695),
+  ("Kaitlin",2987,1277),
+  ("Craig",898,2366),
+  ("Samuel",2631,1985),
+  ("Brady",1751,224),
+  ("Kylan",1366,1683);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ignacia",1679,2201),
+  ("Mariko",1235,1662),
+  ("Hanna",2736,1278),
+  ("Joseph",1603,1030),
+  ("Michael",1466,1021),
+  ("McKenzie",2082,2188),
+  ("Dieter",1711,2157),
+  ("April",107,337),
+  ("Brennan",1288,208),
+  ("Jeremy",1768,2313);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Laurel",11,421),
+  ("Melvin",682,324),
+  ("Rama",439,1282),
+  ("Calista",858,2262),
+  ("Tyrone",1096,2368),
+  ("Laith",1682,242),
+  ("Chelsea",1535,1122),
+  ("Sybil",2505,780),
+  ("Malachi",631,1509),
+  ("Nehru",307,2334);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elizabeth",1442,1932),
+  ("Carla",2975,1799),
+  ("Cynthia",2424,1084),
+  ("Christian",1290,1430),
+  ("Iona",2960,1650),
+  ("Bruce",1385,1028),
+  ("Mariam",2629,1618),
+  ("Sybill",1297,2075),
+  ("Christopher",2168,2348),
+  ("Ignacia",89,1759);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("September",1590,1074),
+  ("Cullen",2676,1799),
+  ("Kaye",1777,769),
+  ("Cody",845,30),
+  ("Xena",581,567),
+  ("Herman",1190,2055),
+  ("Adara",1655,2071),
+  ("Norman",1216,1391),
+  ("Demetrius",2720,498),
+  ("Burton",1263,819);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Teegan",2628,1246),
+  ("Micah",740,313),
+  ("Georgia",2654,708),
+  ("Rosalyn",857,560),
+  ("Lev",332,1335),
+  ("Catherine",471,552),
+  ("Steel",328,560),
+  ("Camden",2131,27),
+  ("Dillon",2860,358),
+  ("Harrison",2828,1061);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Yoshi",396,2315),
+  ("Rama",2274,754),
+  ("Cameron",724,205),
+  ("Kadeem",526,2261),
+  ("Erin",1211,41),
+  ("Jeremy",2106,2406),
+  ("Craig",1456,468),
+  ("Andrew",1161,1840),
+  ("Rina",1773,1121),
+  ("Phoebe",972,189);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Perry",2022,1282),
+  ("Howard",2120,987),
+  ("Aphrodite",2339,94),
+  ("Hilda",2346,1549),
+  ("Amaya",1063,2435),
+  ("Neve",868,96),
+  ("Curran",1033,2168),
+  ("Lane",2001,1373),
+  ("Davis",2686,348),
+  ("Quynn",112,2194);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Amos",2337,2049),
+  ("Hoyt",335,355),
+  ("September",434,861),
+  ("Evangeline",1242,1474),
+  ("Azalia",910,1096),
+  ("Lance",268,304),
+  ("Astra",926,2348),
+  ("Graiden",2050,1723),
+  ("Marshall",886,805),
+  ("Camille",2863,1677);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Candice",2881,396),
+  ("Nasim",1047,898),
+  ("Devin",2470,1505),
+  ("Angelica",487,1776),
+  ("Channing",1052,862),
+  ("Sierra",664,393),
+  ("Cherokee",373,128),
+  ("Cassady",1324,1734),
+  ("Clayton",2245,1558),
+  ("Myles",1630,593);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("John",2592,1725),
+  ("Darryl",694,1513),
+  ("Colin",2518,446),
+  ("Fitzgerald",111,2214),
+  ("Raven",1700,831),
+  ("Inez",82,697),
+  ("Garth",601,2124),
+  ("Anjolie",2625,801),
+  ("Karleigh",2917,70),
+  ("Ima",1528,1258);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jayme",2970,1901),
+  ("Lani",944,830),
+  ("Alea",897,480),
+  ("Jemima",1101,637),
+  ("Julian",2401,1836),
+  ("Adria",2025,28),
+  ("Quentin",255,70),
+  ("Callie",1715,2256),
+  ("Hiram",2056,274),
+  ("Kiara",1676,2482);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dahlia",1272,2103),
+  ("Norman",1275,150),
+  ("Candice",2188,2066),
+  ("Reagan",2688,1672),
+  ("Harriet",1325,1476),
+  ("Xaviera",1232,1578),
+  ("Nadine",282,1553),
+  ("Bruno",1544,2180),
+  ("Clayton",2930,1290),
+  ("Russell",2613,1681);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Darius",2659,2061),
+  ("Zena",1153,1598),
+  ("Scott",514,1479),
+  ("Katell",2019,2328),
+  ("Brittany",2685,306),
+  ("Louis",41,852),
+  ("Christopher",1365,2357),
+  ("Aquila",2568,1615),
+  ("Renee",923,2268),
+  ("Kyle",947,169);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Aileen",1125,1130),
+  ("Preston",2675,1794),
+  ("Warren",1511,415),
+  ("Abraham",481,2340),
+  ("Harriet",890,482),
+  ("Jennifer",1603,451),
+  ("Warren",393,184),
+  ("Abigail",2594,823),
+  ("Cade",306,1212),
+  ("Whilemina",2052,2160);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Emma",577,62),
+  ("Alma",1676,516),
+  ("Quail",389,402),
+  ("Margaret",2208,1788),
+  ("Wyatt",785,1676),
+  ("Inga",1504,1418),
+  ("Ifeoma",1659,1075),
+  ("Walter",1065,605),
+  ("Maia",668,1843),
+  ("Chelsea",2061,2402);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Patrick",601,2217),
+  ("Kiona",2313,193),
+  ("Jermaine",1638,316),
+  ("Jameson",2402,241),
+  ("Jack",173,1504),
+  ("Todd",1646,2280),
+  ("Jacob",2774,289),
+  ("Roanna",1158,172),
+  ("Rhonda",761,806),
+  ("Sylvester",2900,1426);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Harriet",2619,1261),
+  ("Nicole",1610,1076),
+  ("Beau",469,63),
+  ("Noah",94,2497),
+  ("Hu",2330,1367),
+  ("Jana",2457,1506),
+  ("Roary",1071,1399),
+  ("Molly",685,575),
+  ("Rafael",2438,220),
+  ("Oleg",923,2121);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dennis",2651,1611),
+  ("Camden",1427,821),
+  ("Libby",2157,1251),
+  ("Kimberly",82,2382),
+  ("Sophia",1188,1059),
+  ("Quamar",2695,2041),
+  ("Jana",828,917),
+  ("Beatrice",788,2183),
+  ("Ezra",1767,969),
+  ("Avye",1076,766);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Liberty",2962,182),
+  ("Lenore",744,602),
+  ("Kevin",1755,366),
+  ("Garth",1236,65),
+  ("Derek",2044,380),
+  ("Kim",1442,1328),
+  ("Angelica",124,2259),
+  ("Leigh",1096,1409),
+  ("Castor",36,998),
+  ("Chiquita",907,1524);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brent",389,807),
+  ("Philip",2872,1737),
+  ("Benjamin",1264,2465),
+  ("Peter",2024,1624),
+  ("Erich",1993,1509),
+  ("Maia",493,1408),
+  ("Zorita",432,401),
+  ("Armand",2420,670),
+  ("Athena",927,2339),
+  ("Carly",2544,1617);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brock",1718,2242),
+  ("Dacey",457,1278),
+  ("Indigo",958,2028),
+  ("Jillian",2563,2167),
+  ("Kasper",1459,1795),
+  ("Nelle",2728,2440),
+  ("Ferdinand",570,2281),
+  ("Hayley",2256,1779),
+  ("Lareina",708,808),
+  ("Akeem",2750,661);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Martin",1826,1728),
+  ("Brent",642,1017),
+  ("Jaquelyn",1425,2117),
+  ("Clio",907,2351),
+  ("Kane",906,1781),
+  ("James",17,2323),
+  ("Elliott",2504,2092),
+  ("Lance",2796,1692),
+  ("Craig",569,1899),
+  ("Sybill",87,142);
+  
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alan",1894,1314),
+  ("Bruno",2696,1123),
+  ("Erin",2361,1270),
+  ("Abel",877,2191),
+  ("Cecilia",1307,1502),
+  ("Peter",784,1698),
+  ("Avram",287,1378),
+  ("Daphne",531,2145),
+  ("Naomi",1392,1078),
+  ("Katell",1475,1395);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lila",2232,1629),
+  ("George",2351,2176),
+  ("Tatum",49,2260),
+  ("Asher",338,2439),
+  ("Tarik",873,1886),
+  ("Jayme",914,1524),
+  ("Neil",2382,797),
+  ("Sheila",1721,2373),
+  ("Aline",2285,1415),
+  ("Roary",1973,880);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kirsten",2981,396),
+  ("Adena",2554,1608),
+  ("Gavin",2615,2304),
+  ("Pamela",2611,2103),
+  ("Vladimir",437,2328),
+  ("Ira",15,2325),
+  ("Francis",317,1994),
+  ("Delilah",421,767),
+  ("Bianca",964,2400),
+  ("Martin",190,1634);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ulric",371,589),
+  ("Norman",229,775),
+  ("Mark",1214,1667),
+  ("Holly",865,940),
+  ("Zephr",1253,1393),
+  ("Griffin",254,150),
+  ("Cathleen",1862,1707),
+  ("Rylee",615,258),
+  ("Hayfa",2775,2145),
+  ("Ronan",56,438);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Justin",2722,1833),
+  ("Illana",2911,1596),
+  ("Chaney",1704,971),
+  ("Grant",2570,1765),
+  ("Dillon",2290,1978),
+  ("Craig",1820,193),
+  ("George",20,1419),
+  ("Walker",635,1014),
+  ("Jane",1454,2489),
+  ("Barbara",2498,739);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Willa",1378,39),
+  ("Tara",85,117),
+  ("Heather",1241,763),
+  ("Brady",304,2041),
+  ("Clark",1294,984),
+  ("Ferris",287,953),
+  ("Fuller",170,636),
+  ("Dane",1043,2258),
+  ("Melvin",2341,1667),
+  ("Bianca",2471,341);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Deirdre",717,1775),
+  ("Rashad",1350,1900),
+  ("Ronan",994,1029),
+  ("Lisandra",1540,335),
+  ("Freya",52,1859),
+  ("Deanna",1010,1229),
+  ("Joshua",1359,2500),
+  ("Colt",982,1891),
+  ("Hamilton",2386,1087),
+  ("Wynter",645,1683);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ariana",1041,938),
+  ("Pamela",460,432),
+  ("Adria",626,999),
+  ("Illiana",1905,198),
+  ("Benjamin",2692,904),
+  ("Kamal",82,2046),
+  ("Zachery",2149,1265),
+  ("Edward",2313,2026),
+  ("Herman",1116,588),
+  ("Howard",1159,2244);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Slade",1710,2194),
+  ("Odessa",2538,2155),
+  ("Zeus",2090,114),
+  ("Cynthia",1580,2242),
+  ("Oliver",1619,1315),
+  ("Edward",780,1539),
+  ("Mercedes",427,147),
+  ("Tatum",1067,465),
+  ("Carolyn",2048,591),
+  ("Simon",517,2088);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Walter",429,1950),
+  ("Maxine",1362,949),
+  ("Sonya",1004,1003),
+  ("Thane",1182,1783),
+  ("Petra",1461,451),
+  ("Kylynn",1104,2305),
+  ("Phoebe",17,2280),
+  ("Denton",2717,1757),
+  ("Prescott",1586,1919),
+  ("Wang",2511,2152);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Justin",1647,58),
+  ("Isaac",1484,1902),
+  ("Adam",2289,414),
+  ("Hannah",330,1309),
+  ("Rinah",1322,1761),
+  ("Elvis",2846,1965),
+  ("Tad",2718,1439),
+  ("Candace",2830,1458),
+  ("Garrett",570,1110),
+  ("Chaim",332,33);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rafael",2442,588),
+  ("Alexa",2891,733),
+  ("Merritt",2357,1333),
+  ("Iona",20,910),
+  ("Jade",1739,1884),
+  ("Dieter",444,1109),
+  ("Magee",1270,2098),
+  ("Tamara",1097,1682),
+  ("Tarik",2399,1828),
+  ("Destiny",1106,2018);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Carlos",2581,2209),
+  ("Velma",1675,444),
+  ("Xander",1987,1906),
+  ("Amanda",1966,1112),
+  ("Rhona",2067,134),
+  ("Maisie",1014,2385),
+  ("Ivory",542,1504),
+  ("Jonah",486,155),
+  ("Caleb",1660,1311),
+  ("Yeo",103,2368);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Yael",2463,233),
+  ("Alfreda",160,2400),
+  ("Natalie",129,1749),
+  ("Hamilton",2624,1044),
+  ("Blaze",2758,6),
+  ("Fletcher",867,289),
+  ("Eagan",1851,1530),
+  ("Jorden",2596,2334),
+  ("Elaine",1448,905),
+  ("Blake",2144,1008);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ethan",1980,2259),
+  ("Andrew",1412,502),
+  ("Cameron",538,2159),
+  ("Wing",934,695),
+  ("Buckminster",2913,904),
+  ("Mallory",22,2067),
+  ("Porter",2976,1349),
+  ("Leilani",1499,2307),
+  ("Garth",1773,1076),
+  ("Burton",2396,571);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tamekah",1047,1108),
+  ("Indira",1926,733),
+  ("Pandora",1246,2076),
+  ("Gray",2401,2153),
+  ("Suki",2925,2121),
+  ("Nelle",645,1418),
+  ("Heidi",243,1410),
+  ("Akeem",2036,800),
+  ("Zephania",2191,259),
+  ("Cheyenne",1064,2128);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brianna",2723,1127),
+  ("Jorden",2169,2407),
+  ("Allen",1715,1060),
+  ("Timothy",1785,1739),
+  ("Galvin",1332,1771),
+  ("Desiree",1033,1567),
+  ("Signe",934,1900),
+  ("Hillary",1058,1781),
+  ("Keegan",834,830),
+  ("Russell",1898,176);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Arden",1417,728),
+  ("Otto",354,496),
+  ("Haley",2678,1957),
+  ("Inez",148,1401),
+  ("Carolyn",1969,2168),
+  ("Megan",866,2170),
+  ("Skyler",2854,941),
+  ("Magee",1974,1559),
+  ("Tatiana",1917,1672),
+  ("Cody",2635,1371);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Moses",2798,1901),
+  ("Maggy",2665,1544),
+  ("August",874,995),
+  ("Jael",2216,1889),
+  ("Brennan",1316,1776),
+  ("Malik",1661,843),
+  ("Connor",2283,96),
+  ("Edan",2726,1466),
+  ("Camden",2804,2239),
+  ("Drew",2374,167);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lynn",1072,133),
+  ("Ivy",2820,1246),
+  ("Rogan",127,1566),
+  ("Ariel",549,1349),
+  ("Xanthus",189,1312),
+  ("Solomon",2560,1838),
+  ("Laith",2058,1761),
+  ("Wing",312,1090),
+  ("Allegra",1538,1973),
+  ("Xavier",654,2126);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hop",2862,1721),
+  ("Flavia",1508,1141),
+  ("Catherine",2090,1321),
+  ("Lila",1336,2325),
+  ("Inga",786,1207),
+  ("Emerson",2512,2009),
+  ("Jin",524,227),
+  ("Aimee",2307,1919),
+  ("Judah",1479,2051),
+  ("Rogan",786,2199);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rogan",2236,1299),
+  ("Ifeoma",2375,710),
+  ("Oren",856,1607),
+  ("Hammett",2059,989),
+  ("Harper",1284,1548),
+  ("Wynne",2030,321),
+  ("Gavin",2570,443),
+  ("Cathleen",1573,2133),
+  ("Yardley",1145,1419),
+  ("Venus",1599,948);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Oleg",2000,1315),
+  ("Thaddeus",2664,2099),
+  ("Jameson",227,546),
+  ("Piper",2833,284),
+  ("Serina",2812,1231),
+  ("Rudyard",475,345),
+  ("Alfonso",2557,968),
+  ("Remedios",910,676),
+  ("Nell",221,1502),
+  ("Isabella",1134,1139);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Diana",2938,1881),
+  ("Wing",1531,2410),
+  ("Valentine",2105,634),
+  ("Ray",1876,195),
+  ("Wayne",1083,1950),
+  ("Merrill",2032,983),
+  ("Jarrod",2317,157),
+  ("Graham",1583,1548),
+  ("Ian",2467,2243),
+  ("Len",1777,2292);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Clarke",1119,326),
+  ("Camille",1563,1520),
+  ("Bradley",2094,2243),
+  ("Sopoline",1669,1088),
+  ("Emily",819,795),
+  ("Rhonda",212,112),
+  ("Jaime",2382,2142),
+  ("Kelsey",626,313),
+  ("Kenyon",586,815),
+  ("Valentine",1008,1317);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Zachary",769,2362),
+  ("Quamar",2838,415),
+  ("Phyllis",1541,1022),
+  ("Upton",424,920),
+  ("Patricia",2476,2435),
+  ("Lillith",49,1714),
+  ("Stephanie",2575,872),
+  ("Vernon",984,1787),
+  ("Malik",410,1802),
+  ("Cassady",2131,1753);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cairo",1819,282),
+  ("Simon",2698,793),
+  ("Fleur",2486,2106),
+  ("Keiko",700,1769),
+  ("Kiayada",2396,1793),
+  ("Piper",2135,1180),
+  ("Yoshi",2139,101),
+  ("Violet",630,541),
+  ("Iola",1664,2441),
+  ("Jonah",482,2444);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Suki",362,2462),
+  ("Phelan",1593,2230),
+  ("Joseph",2368,527),
+  ("Remedios",2522,1198),
+  ("Rowan",327,1748),
+  ("Kiayada",557,507),
+  ("Hayes",383,1504),
+  ("Caldwell",2736,2482),
+  ("Derek",2951,706),
+  ("Daryl",2861,184);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Astra",614,1097),
+  ("Imogene",1506,790),
+  ("Cooper",241,2368),
+  ("Hiram",2644,898),
+  ("Troy",1021,667),
+  ("Macon",1407,735),
+  ("Gary",228,1017),
+  ("Duncan",2913,1924),
+  ("Ursula",615,224),
+  ("Mary",2682,126);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Abel",2747,332),
+  ("Vernon",2611,297),
+  ("Christine",2663,1390),
+  ("Fritz",2533,2300),
+  ("Nita",2742,565),
+  ("Zena",477,1640),
+  ("Kenyon",10,1555),
+  ("Ralph",926,1488),
+  ("Daquan",880,1497),
+  ("Brian",2124,56);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Amos",928,2365),
+  ("Lila",2094,1994),
+  ("Perry",304,1423),
+  ("Ursula",2185,1040),
+  ("Chancellor",361,1550),
+  ("Oprah",2798,1937),
+  ("Driscoll",795,188),
+  ("Anjolie",524,1560),
+  ("Dale",716,133),
+  ("Stuart",242,2000);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Martena",1976,1397),
+  ("Jack",2338,1356),
+  ("Simon",915,2478),
+  ("Iliana",2970,1643),
+  ("Eleanor",2383,1184),
+  ("Hayfa",2480,1950),
+  ("Tate",2043,520),
+  ("Tanner",2870,1836),
+  ("Edan",547,1640),
+  ("Kaseem",396,2318);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Heidi",28,1359),
+  ("Hannah",2980,2135),
+  ("Teagan",1361,29),
+  ("Cheryl",2795,17),
+  ("Stuart",1179,260),
+  ("Addison",854,178),
+  ("Amelia",1673,1700),
+  ("Felicia",2858,133),
+  ("Eugenia",363,1481),
+  ("Hilda",527,1234);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alan",533,1323),
+  ("Gavin",2614,2430),
+  ("Rachel",1645,874),
+  ("Upton",2354,1795),
+  ("Kiayada",2116,321),
+  ("Zenia",89,514),
+  ("Jameson",2046,176),
+  ("Zachery",2008,1616),
+  ("Ariana",2306,740),
+  ("Ima",2388,1118);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Herrod",807,1601),
+  ("Petra",755,2107),
+  ("Dominic",2862,1828),
+  ("Elizabeth",666,969),
+  ("Chloe",538,575),
+  ("Edan",919,93),
+  ("Elton",641,1905),
+  ("Madeson",2230,310),
+  ("Cody",2560,773),
+  ("Halee",2086,2199);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Walker",1458,1623),
+  ("Signe",793,1706),
+  ("Tucker",725,1752),
+  ("Kuame",846,1392),
+  ("Burton",1079,1178),
+  ("Noel",844,1425),
+  ("Sheila",1176,1890),
+  ("Wade",1262,606),
+  ("Jonah",1936,1125),
+  ("Caleb",2238,43);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("May",2922,2486),
+  ("Colorado",840,2110),
+  ("Cecilia",1634,1373),
+  ("Lacota",2237,1650),
+  ("Mercedes",1547,1306),
+  ("Quail",2311,2029),
+  ("Quinn",2429,1866),
+  ("August",2458,2408),
+  ("Lee",2641,1268),
+  ("Ivy",1821,1446);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Adria",601,1472),
+  ("Herrod",1771,1526),
+  ("Colt",1745,720),
+  ("Lysandra",1018,2043),
+  ("Winifred",496,1940),
+  ("Brody",190,1555),
+  ("Colette",1988,372),
+  ("Samuel",2398,421),
+  ("Odysseus",2268,2357),
+  ("Michelle",2789,974);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mohammad",2101,353),
+  ("Samantha",2666,941),
+  ("Phelan",462,811),
+  ("Stone",2885,1910),
+  ("Sylvester",881,1312),
+  ("Marvin",1446,1354),
+  ("Ella",231,2261),
+  ("Branden",2686,145),
+  ("Hadley",1714,1889),
+  ("Ursa",1312,977);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Garrett",2920,2303),
+  ("Lacey",314,2325),
+  ("Latifah",604,1458),
+  ("Dahlia",506,1418),
+  ("Wallace",2994,619),
+  ("Nehru",2017,1926),
+  ("Sasha",171,515),
+  ("Cooper",2361,1355),
+  ("Sage",2171,2221),
+  ("Hilda",1850,2387);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Benjamin",881,455),
+  ("Nissim",622,950),
+  ("Zeph",1802,188),
+  ("Nell",1235,1642),
+  ("Raja",1796,2065),
+  ("Mason",2553,1485),
+  ("Otto",1749,846),
+  ("Yvette",1634,2048),
+  ("Alexis",361,106),
+  ("Len",2809,455);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ronan",2661,380),
+  ("Imogene",1501,1694),
+  ("Ryan",241,2458),
+  ("Autumn",1005,1751),
+  ("Camden",2018,2484),
+  ("Price",2282,2415),
+  ("Buckminster",532,499),
+  ("Chandler",606,368),
+  ("Merrill",1076,1176),
+  ("Hiroko",498,2261);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kameko",2841,2441),
+  ("Kuame",2636,2333),
+  ("Allistair",2058,423),
+  ("Garrett",443,1695),
+  ("Cole",2201,499),
+  ("Walter",1466,482),
+  ("Halla",166,1330),
+  ("Ignacia",1427,929),
+  ("Lareina",1246,1684),
+  ("Gil",1833,1776);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jarrod",1666,1028),
+  ("Keiko",258,174),
+  ("Roth",2264,1757),
+  ("Courtney",1835,759),
+  ("Zahir",154,1352),
+  ("Elmo",2821,794),
+  ("Victoria",925,1980),
+  ("Francis",828,375),
+  ("Megan",2244,122),
+  ("Abraham",811,1826);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Emerson",2631,107),
+  ("Orla",117,569),
+  ("Carissa",1338,699),
+  ("Michael",2926,1696),
+  ("Scarlet",2992,2248),
+  ("Darryl",2011,810),
+  ("Melodie",156,1321),
+  ("Lester",359,887),
+  ("Logan",411,854),
+  ("Bruno",2120,17);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Amelia",2914,1895),
+  ("Brittany",223,2195),
+  ("Josephine",1607,1386),
+  ("Indigo",536,2460),
+  ("Talon",1352,2152),
+  ("Julie",2186,1713),
+  ("Anthony",779,566),
+  ("Dane",571,555),
+  ("Price",2234,760),
+  ("Demetria",487,2424);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Xena",1575,1847),
+  ("Arthur",1978,2421),
+  ("Mufutau",325,46),
+  ("Macaulay",685,228),
+  ("Daquan",2003,148),
+  ("Tanek",2736,342),
+  ("Xandra",2237,1030),
+  ("Keane",549,2420),
+  ("Rogan",716,2182),
+  ("Cheryl",548,1772);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brian",2417,993),
+  ("Karleigh",89,1668),
+  ("Tyrone",1131,2300),
+  ("Audrey",2595,87),
+  ("Alan",254,570),
+  ("Ori",1001,1022),
+  ("Finn",114,1579),
+  ("Quinlan",775,2400),
+  ("Mark",492,617),
+  ("Vernon",1439,315);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sydnee",1842,358),
+  ("Whilemina",2862,836),
+  ("Clark",2706,2120),
+  ("Hamish",2750,883),
+  ("Zelda",350,1892),
+  ("Irma",1247,1984),
+  ("TaShya",839,607),
+  ("Dominic",1833,1918),
+  ("Jessica",51,2051),
+  ("Leslie",623,2208);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ifeoma",228,1258),
+  ("Courtney",2294,2317),
+  ("Wynne",2299,2316),
+  ("Curran",2145,2228),
+  ("Chester",2920,1926),
+  ("Isaac",2625,14),
+  ("Joseph",2351,1565),
+  ("James",1734,1198),
+  ("Stone",2714,643),
+  ("Kibo",1708,933);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dorothy",2727,1259),
+  ("Mark",1142,2063),
+  ("Yoshio",2151,515),
+  ("Leila",560,923),
+  ("Patricia",1636,55),
+  ("Gareth",2444,436),
+  ("Patience",562,1259),
+  ("Plato",2865,345),
+  ("Marsden",831,1676),
+  ("Arden",976,486);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jared",702,344),
+  ("Shea",2012,685),
+  ("Velma",2955,1417),
+  ("Melinda",1259,1658),
+  ("Dominic",929,1682),
+  ("Igor",2831,1941),
+  ("Maris",2641,1220),
+  ("Ann",1156,1806),
+  ("Russell",2881,1986),
+  ("Philip",782,1416);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jerome",181,1912),
+  ("Owen",316,1562),
+  ("Colette",89,894),
+  ("Xenos",1045,1854),
+  ("Derek",748,994),
+  ("Austin",2713,170),
+  ("Daria",597,856),
+  ("Alice",801,2487),
+  ("Malcolm",326,2467),
+  ("Carlos",32,1239);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Macy",1927,1084),
+  ("Paloma",2064,1190),
+  ("Rudyard",868,1586),
+  ("Yardley",2925,442),
+  ("Camden",984,1450),
+  ("Lucas",1096,798),
+  ("Minerva",319,1648),
+  ("Quon",2845,981),
+  ("Gil",1823,78),
+  ("Tashya",2272,2459);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mercedes",347,1676),
+  ("Patricia",745,1099),
+  ("Ahmed",729,247),
+  ("Jada",1370,998),
+  ("Ferris",2547,1830),
+  ("Amaya",291,1448),
+  ("Daniel",2751,1974),
+  ("Edward",1497,951),
+  ("Malcolm",93,1500),
+  ("Genevieve",1092,706);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Echo",1563,223),
+  ("Kieran",1170,87),
+  ("Daria",1880,938),
+  ("Lamar",16,996),
+  ("Gage",2851,1597),
+  ("Cody",91,1268),
+  ("Gary",2845,2388),
+  ("Ori",2277,1572),
+  ("Hammett",2844,2089),
+  ("Scarlett",2338,478);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ira",1631,2455),
+  ("Inga",1706,1045),
+  ("Ginger",2558,610),
+  ("Yasir",1560,2040),
+  ("Emily",2430,681),
+  ("Lee",2569,1643),
+  ("Keely",2064,2235),
+  ("Rosalyn",1857,632),
+  ("Beau",1766,311),
+  ("Lillith",1325,119);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Clementine",393,1840),
+  ("Zane",981,1026),
+  ("Shoshana",2216,1418),
+  ("Zena",2172,2249),
+  ("Geoffrey",1610,1867),
+  ("Kay",1596,1886),
+  ("Reed",917,1478),
+  ("Silas",2008,2196),
+  ("Madonna",1549,669),
+  ("Craig",1390,1964);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ian",2686,368),
+  ("Brody",546,1619),
+  ("Kaye",690,2283),
+  ("Abel",1037,149),
+  ("Bruce",1494,388),
+  ("Julian",1903,2115),
+  ("Tatum",515,1434),
+  ("MacKenzie",87,1002),
+  ("Keefe",2767,791),
+  ("Sage",2129,601);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Beau",2473,100),
+  ("Teegan",2485,811),
+  ("Maggy",2564,809),
+  ("Eagan",2635,2096),
+  ("Nathaniel",2694,2242),
+  ("Barclay",2587,244),
+  ("Clio",2384,1342),
+  ("Colette",76,2185),
+  ("Alisa",1391,1967),
+  ("Leslie",760,1910);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Pamela",583,1864),
+  ("Macon",1869,377),
+  ("Grace",294,868),
+  ("Lydia",765,1409),
+  ("Sydnee",926,452),
+  ("Dillon",1785,2369),
+  ("Garrison",1267,315),
+  ("Emery",281,218),
+  ("Axel",35,1333),
+  ("Isabelle",413,2131);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Guy",1019,1681),
+  ("Nevada",683,1412),
+  ("Thor",94,1282),
+  ("Aidan",2487,1279),
+  ("Madeson",2509,784),
+  ("Urielle",624,1299),
+  ("Melyssa",2947,2199),
+  ("Felix",2382,187),
+  ("Samson",2818,710),
+  ("Aurelia",1806,783);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Evan",1975,1956),
+  ("Hall",1487,440),
+  ("Damian",1466,1792),
+  ("Samuel",799,2097),
+  ("Reuben",1266,1354),
+  ("Gwendolyn",2551,1075),
+  ("Ori",2912,904),
+  ("Aladdin",2328,1912),
+  ("Pandora",129,265),
+  ("Valentine",1461,1853);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Len",1985,1049),
+  ("Nyssa",2214,1569),
+  ("Shay",2687,1302),
+  ("Abra",1789,1021),
+  ("Xaviera",1733,2137),
+  ("Oleg",1898,1997),
+  ("Vaughan",2933,1009),
+  ("Alden",2837,2225),
+  ("Price",2521,301),
+  ("Zeph",1414,1055);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Macon",2075,2047),
+  ("Nissim",1230,2454),
+  ("Phillip",1324,2227),
+  ("Tanner",2224,2483),
+  ("Lana",627,1637),
+  ("Hector",2433,1781),
+  ("Sydnee",1945,1753),
+  ("Stephanie",1218,2405),
+  ("Maite",1170,1239),
+  ("Hanae",53,1341);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Yolanda",917,411),
+  ("Jana",1228,2059),
+  ("Grady",2187,1254),
+  ("Fay",1128,90),
+  ("Rebecca",1391,886),
+  ("Marny",98,652),
+  ("Cyrus",776,1473),
+  ("Nevada",962,206),
+  ("Kiayada",2643,783),
+  ("Ashely",1401,2309);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Byron",2446,1498),
+  ("Brenda",712,532),
+  ("Mechelle",2880,1114),
+  ("Jack",1049,1419),
+  ("Karly",517,2159),
+  ("Sigourney",1107,1225),
+  ("Solomon",1114,934),
+  ("Aiko",1519,183),
+  ("Eric",2536,1830),
+  ("Denton",1393,977);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Madeson",2851,1027),
+  ("Celeste",2930,257),
+  ("Amanda",1771,199),
+  ("Alan",1766,278),
+  ("Lillian",2139,947),
+  ("Inga",2717,1944),
+  ("Jeremy",340,1335),
+  ("Ethan",1177,1070),
+  ("Nathaniel",1859,2154),
+  ("Amanda",2299,2167);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brittany",635,537),
+  ("Rigel",1427,2264),
+  ("Victoria",1654,2040),
+  ("Alika",421,2090),
+  ("Ian",2781,1467),
+  ("Cain",672,2440),
+  ("Troy",1463,1112),
+  ("September",1962,562),
+  ("Denton",2310,1081),
+  ("Levi",2188,1994);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tasha",2680,2399),
+  ("Wylie",1722,2128),
+  ("Raya",1606,1213),
+  ("Lilah",1275,1065),
+  ("Hamish",1348,1206),
+  ("Ayanna",159,2199),
+  ("Brooke",1180,1156),
+  ("Quinlan",794,1028),
+  ("Avye",1759,711),
+  ("Ross",539,2402);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Leonard",1871,1064),
+  ("Thor",1368,922),
+  ("Galena",1714,1623),
+  ("Jana",2737,771),
+  ("Omar",2463,812),
+  ("Hermione",94,124),
+  ("Kenyon",1620,372),
+  ("Rhonda",1426,351),
+  ("Kibo",1968,1016),
+  ("Chiquita",2655,590);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Quynn",2652,1079),
+  ("Isaac",2678,2179),
+  ("Janna",1065,947),
+  ("Urielle",1954,1300),
+  ("Merrill",2592,285),
+  ("Rama",2617,2486),
+  ("Sybil",2442,2437),
+  ("Shana",1216,748),
+  ("Lilah",161,2061),
+  ("Amal",1219,806);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cecilia",2204,1651),
+  ("Mara",1091,622),
+  ("Stewart",31,763),
+  ("Paula",2621,1576),
+  ("Angela",1115,1183),
+  ("Fay",446,1507),
+  ("Melissa",795,1837),
+  ("Anjolie",2592,2185),
+  ("Vaughan",1849,1042),
+  ("Lareina",2679,2321);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dominique",13,522),
+  ("Preston",1643,465),
+  ("Kyle",1710,330),
+  ("Xaviera",1329,183),
+  ("Yoko",164,1387),
+  ("Judah",1308,1085),
+  ("Hasad",1295,170),
+  ("Gemma",975,1125),
+  ("Nyssa",2186,1832),
+  ("Norman",2027,2274);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jerry",1492,564),
+  ("Drew",5,1609),
+  ("Hyacinth",905,574),
+  ("Colby",406,145),
+  ("Raya",2313,291),
+  ("Kato",907,1569),
+  ("Boris",347,542),
+  ("Sigourney",2217,141),
+  ("Imani",2001,1401),
+  ("Richard",752,1033);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Drake",2533,735),
+  ("Silas",1173,49),
+  ("Dillon",2576,2447),
+  ("Randall",1232,55),
+  ("Kaseem",1638,596),
+  ("Liberty",384,2494),
+  ("Lawrence",1251,1815),
+  ("Calvin",1507,726),
+  ("Octavius",2604,1032),
+  ("Olivia",2485,2381);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Seth",243,2059),
+  ("Bruno",540,1482),
+  ("Jasper",1118,1848),
+  ("Gray",2055,1093),
+  ("Adrienne",2933,42),
+  ("Yvette",784,2427),
+  ("Gemma",26,2374),
+  ("Zorita",150,1587),
+  ("Tad",2109,1994),
+  ("Kieran",425,336);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ezekiel",996,1275),
+  ("Sacha",2902,1374),
+  ("Lionel",2950,697),
+  ("Mikayla",2366,2330),
+  ("Sharon",1086,678),
+  ("Lucian",2508,848),
+  ("Benjamin",252,1022),
+  ("Charissa",1863,11),
+  ("Blossom",1416,1265),
+  ("Ezekiel",275,1858);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("MacKensie",852,2466),
+  ("Harding",2207,23),
+  ("Linus",2480,1106),
+  ("Daniel",523,1500),
+  ("Mia",2262,2286),
+  ("Whoopi",117,1519),
+  ("Lacy",2271,428),
+  ("Katelyn",1793,467),
+  ("Leslie",2886,2231),
+  ("Brendan",1565,1334);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("James",2673,2159),
+  ("Jennifer",2785,1859),
+  ("Robin",2001,2159),
+  ("Hedwig",196,2323),
+  ("Leroy",2936,1890),
+  ("Angelica",1114,1661),
+  ("Daryl",1188,190),
+  ("Jasper",1458,746),
+  ("Forrest",1054,996),
+  ("Jared",115,1159);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Geoffrey",2621,2001),
+  ("Gemma",1214,1794),
+  ("Anthony",1395,234),
+  ("Cherokee",1298,1496),
+  ("Myles",1223,1444),
+  ("Janna",2073,1180),
+  ("Amaya",2107,68),
+  ("Laura",1304,840),
+  ("Cara",545,814),
+  ("Edan",2565,476);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Karina",1390,514),
+  ("Myra",1927,510),
+  ("Yvette",334,2403),
+  ("Caldwell",233,1215),
+  ("Dean",719,1668),
+  ("Janna",2086,766),
+  ("Hiroko",2423,1690),
+  ("Alyssa",2451,996),
+  ("Carla",1169,781),
+  ("Cally",612,2134);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cooper",1057,510),
+  ("Petra",938,1153),
+  ("Vanna",1331,996),
+  ("Zeph",1978,1537),
+  ("Desirae",1842,1092),
+  ("Adrienne",1865,320),
+  ("Abigail",1925,2200),
+  ("Ivan",1082,221),
+  ("Laura",754,1232),
+  ("Bree",2210,1893);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Amy",95,2307),
+  ("Hammett",1967,1573),
+  ("Troy",495,1532),
+  ("Ginger",492,1559),
+  ("Odysseus",542,1099),
+  ("Walker",2101,1216),
+  ("Geraldine",1301,1169),
+  ("Cameron",2194,452),
+  ("Macon",2691,37),
+  ("Emery",2135,788);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Arsenio",1773,1155),
+  ("Addison",406,1887),
+  ("Josephine",2821,22),
+  ("Malachi",2366,214),
+  ("Walter",2375,1871),
+  ("Colt",1429,789),
+  ("Walter",952,571),
+  ("Ulla",702,1021),
+  ("Lev",1699,947),
+  ("Jaquelyn",332,1053);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tad",728,667),
+  ("Mollie",414,425),
+  ("Eaton",2503,619),
+  ("Brenna",508,1641),
+  ("Harrison",717,1428),
+  ("Zena",2493,912),
+  ("Violet",2713,1492),
+  ("Duncan",1445,2365),
+  ("Derek",935,459),
+  ("Nolan",1915,67);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Raymond",1031,1428),
+  ("Britanni",2544,386),
+  ("Harding",983,1835),
+  ("Ciara",2400,1657),
+  ("Deirdre",122,852),
+  ("Lydia",421,406),
+  ("Mechelle",944,118),
+  ("Ayanna",118,2),
+  ("Karina",190,1552),
+  ("Griffith",1194,2119);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Callum",763,553),
+  ("Yael",1947,1557),
+  ("Signe",2521,1308),
+  ("Mari",322,1718),
+  ("Kevin",2326,2462),
+  ("Uriel",501,1334),
+  ("Fatima",1503,854),
+  ("Herrod",2721,1324),
+  ("Caesar",2256,1561),
+  ("Cairo",1867,692);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kellie",2353,1686),
+  ("George",2174,1656),
+  ("Mohammad",1014,586),
+  ("Montana",917,1327),
+  ("Bradley",1874,2092),
+  ("Jeanette",499,2156),
+  ("Nathaniel",2287,2458),
+  ("Jonah",2988,1594),
+  ("Dante",347,576),
+  ("Quinlan",2581,883);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ima",2115,2028),
+  ("Leo",695,1140),
+  ("Duncan",2726,1611),
+  ("Mark",2994,247),
+  ("Philip",2486,14),
+  ("Gregory",1916,2468),
+  ("Austin",2983,2450),
+  ("Leandra",2491,1528),
+  ("Jameson",1498,510),
+  ("Kyra",2649,1153);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Michelle",440,418),
+  ("Jolene",1047,291),
+  ("Basia",2801,1390),
+  ("Sasha",233,1922),
+  ("Elliott",882,861),
+  ("Kyle",269,701),
+  ("Nomlanga",2346,2239),
+  ("Christine",1105,403),
+  ("Miranda",132,1077),
+  ("Tate",573,1346);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Destiny",973,2254),
+  ("Phelan",676,961),
+  ("Sebastian",2282,931),
+  ("Ciara",1774,1858),
+  ("Keefe",792,1512),
+  ("Lael",1114,2010),
+  ("Aidan",829,2421),
+  ("Chancellor",2845,3),
+  ("Minerva",1854,1839),
+  ("Asher",479,1559);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Channing",559,1741),
+  ("Dillon",2489,665),
+  ("Lawrence",1566,1913),
+  ("Kennedy",1503,84),
+  ("Stone",964,625),
+  ("Branden",2252,662),
+  ("Moses",1910,513),
+  ("Conan",156,1652),
+  ("Stewart",383,1518),
+  ("Jared",512,420);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Knox",2121,1594),
+  ("Nash",2206,291),
+  ("Isaac",1771,13),
+  ("Isadora",2036,2489),
+  ("Tatum",2405,1630),
+  ("Mariko",393,1948),
+  ("Kamal",1296,1270),
+  ("Kyle",2031,1800),
+  ("Jennifer",2192,2414),
+  ("Nora",559,1010);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sarah",1535,962),
+  ("Larissa",153,2277),
+  ("Daquan",1969,138),
+  ("Micah",2375,2000),
+  ("Jamalia",1633,1357),
+  ("Rudyard",1220,381),
+  ("Thane",1177,875),
+  ("Clayton",1421,1000),
+  ("Darryl",2888,258),
+  ("Chiquita",1372,259);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lesley",2523,1327),
+  ("Silas",953,2021),
+  ("Sacha",707,162),
+  ("Venus",1982,254),
+  ("Alexander",617,2060),
+  ("Liberty",268,723),
+  ("Kyra",1585,557),
+  ("Matthew",2094,1946),
+  ("Galena",1783,316),
+  ("Howard",2888,1604);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tatyana",2202,1750),
+  ("Miriam",2116,119),
+  ("Gregory",1686,282),
+  ("Linus",1945,1157),
+  ("Erin",2039,955),
+  ("Colby",644,1302),
+  ("Solomon",2528,2156),
+  ("Cruz",337,497),
+  ("Zelenia",2922,1305),
+  ("Olivia",2435,931);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Bernard",968,206),
+  ("Keith",873,2265),
+  ("Montana",2678,629),
+  ("Russell",363,1750),
+  ("Colette",1683,1255),
+  ("Remedios",775,2360),
+  ("Francis",493,952),
+  ("Nita",1394,775),
+  ("Jamalia",1750,1790),
+  ("Callie",426,1714);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Emerson",2143,2234),
+  ("Karen",1087,1201),
+  ("Yeo",2318,1351),
+  ("Scott",662,1535),
+  ("Chanda",527,1366),
+  ("Stephanie",2316,1850),
+  ("Autumn",232,1257),
+  ("Brenden",2671,2357),
+  ("Cleo",1425,1993),
+  ("Cleo",2712,1400);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eve",2581,1483),
+  ("Elijah",1609,956),
+  ("Elliott",2197,2122),
+  ("Daniel",416,2417),
+  ("Whilemina",1400,994),
+  ("Thomas",23,2061),
+  ("Howard",889,947),
+  ("Fleur",498,89),
+  ("Rudyard",2016,1271),
+  ("Ignatius",586,974);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Avye",2570,1371),
+  ("Nyssa",59,2176),
+  ("Lev",2993,2439),
+  ("Rogan",2552,852),
+  ("Juliet",394,446),
+  ("Bryar",838,396),
+  ("Naomi",462,2148),
+  ("Carolyn",364,1716),
+  ("Rashad",2495,1463),
+  ("Colette",1141,1346);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kennan",1379,1912),
+  ("Boris",2100,507),
+  ("Declan",1055,1377),
+  ("Paula",1522,2424),
+  ("Richard",1286,2051),
+  ("Rose",1819,375),
+  ("Teegan",1109,790),
+  ("Ruth",787,2215),
+  ("Drew",408,1444),
+  ("Christen",1751,891);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eve",2494,2109),
+  ("Priscilla",1596,2084),
+  ("Karleigh",427,1437),
+  ("Eve",1558,412),
+  ("Rosalyn",1674,1822),
+  ("Shannon",2523,2329),
+  ("Dacey",1949,2412),
+  ("Mikayla",1675,605),
+  ("Buffy",624,1249),
+  ("Paul",2278,1270);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wylie",1522,839),
+  ("Mechelle",2292,1879),
+  ("Gwendolyn",715,1371),
+  ("Macaulay",2180,967),
+  ("Isabella",2263,2401),
+  ("Jermaine",2338,1259),
+  ("Shad",1946,2326),
+  ("Roth",1002,952),
+  ("Ora",1948,116),
+  ("Gabriel",1905,2192);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rigel",1038,1365),
+  ("Channing",702,360),
+  ("Rhoda",1117,2345),
+  ("Hayfa",1065,305),
+  ("Zane",2377,2449),
+  ("Rooney",535,1741),
+  ("Jameson",2077,280),
+  ("Amethyst",2534,2253),
+  ("Benjamin",1437,987),
+  ("Ivor",1498,160);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eve",2440,237),
+  ("Zahir",882,1752),
+  ("George",319,310),
+  ("Selma",1392,2370),
+  ("Kyra",340,2023),
+  ("Sara",2160,1328),
+  ("Madonna",722,1877),
+  ("Jacqueline",1570,1552),
+  ("Cameron",241,663),
+  ("Leroy",692,1161);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Colby",2620,2408),
+  ("Lionel",1257,1481),
+  ("Otto",1810,1567),
+  ("Bianca",2474,1512),
+  ("Pascale",1957,1113),
+  ("Frances",437,1654),
+  ("Raven",491,1049),
+  ("Grady",2050,444),
+  ("Aristotle",1884,1174),
+  ("Holmes",2205,2356);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Judah",1137,2014),
+  ("Noelle",643,1183),
+  ("Stephanie",1782,1476),
+  ("Calista",2920,1940),
+  ("Denton",2696,1037),
+  ("Nerea",724,1396),
+  ("Troy",1998,1029),
+  ("Uriel",1940,1037),
+  ("Joelle",2711,1540),
+  ("Christine",148,478);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Demetria",2230,1392),
+  ("Catherine",1758,50),
+  ("Gil",1922,1923),
+  ("Leonard",286,1934),
+  ("Derek",2046,2093),
+  ("Haviva",1886,856),
+  ("Karen",2235,2197),
+  ("Hanae",289,1072),
+  ("Xyla",2021,717),
+  ("Otto",1740,1666);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hanae",1798,1737),
+  ("Elton",2270,724),
+  ("Thaddeus",1442,67),
+  ("Donna",1645,695),
+  ("Slade",722,1204),
+  ("Wynter",2762,640),
+  ("Shelby",74,1650),
+  ("Rafael",603,2329),
+  ("Dalton",1101,1661),
+  ("Ryan",2999,523);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Aileen",2727,319),
+  ("Dustin",2903,636),
+  ("Nathan",2191,2308),
+  ("Price",2309,1687),
+  ("Chadwick",1996,1269),
+  ("Berk",1614,1803),
+  ("Clayton",1292,389),
+  ("Xena",710,1719),
+  ("Fitzgerald",2292,1038),
+  ("Rajah",2434,1290);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jescie",2335,1914),
+  ("Illiana",801,1188),
+  ("Knox",1247,693),
+  ("Fiona",493,1836),
+  ("Avye",567,1491),
+  ("Medge",386,523),
+  ("Wesley",197,632),
+  ("Thane",1399,716),
+  ("Wallace",2551,1236),
+  ("Galena",1858,230);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Candace",1125,808),
+  ("Kelsie",1740,2001),
+  ("Aphrodite",2919,1109),
+  ("Indira",1762,1931),
+  ("Rafael",2534,1565),
+  ("Lana",1251,646),
+  ("Lewis",884,1030),
+  ("Plato",961,2445),
+  ("Kennedy",1564,1203),
+  ("Rosalyn",2018,2405);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Erich",849,1063),
+  ("Chaim",910,556),
+  ("Tanner",129,1170),
+  ("Warren",1191,1379),
+  ("Garrett",398,2022),
+  ("Josiah",508,1010),
+  ("Morgan",1895,1027),
+  ("Charissa",2241,400),
+  ("Carissa",595,2057),
+  ("Echo",2058,2163);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tiger",2778,1838),
+  ("Reece",1474,2452),
+  ("Nathan",2218,1827),
+  ("Zahir",745,1832),
+  ("Pascale",2633,2339),
+  ("Lucy",192,1386),
+  ("Nissim",2305,2009),
+  ("Harper",1029,368),
+  ("Thaddeus",2704,1417),
+  ("Plato",2237,194);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elizabeth",1267,590),
+  ("Keane",50,701),
+  ("Neville",818,2264),
+  ("Zelda",634,1552),
+  ("Thor",610,2299),
+  ("Seth",611,1113),
+  ("Ella",705,995),
+  ("Scott",1051,765),
+  ("Mannix",2551,2401),
+  ("Melissa",2456,626);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Madeline",222,1200),
+  ("Dieter",2069,441),
+  ("Anthony",1424,2161),
+  ("Cora",1324,2023),
+  ("Donovan",2533,131),
+  ("Igor",1813,497),
+  ("Rina",2110,1156),
+  ("Cameran",1297,1235),
+  ("Cassandra",73,1280),
+  ("Gisela",2198,979);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Amir",716,1106),
+  ("Zephr",1686,1747),
+  ("Rhiannon",228,2133),
+  ("Chelsea",620,751),
+  ("Alyssa",1722,1681),
+  ("Clare",1639,2375),
+  ("Claire",124,403),
+  ("Ivana",39,524),
+  ("Jayme",124,62),
+  ("Jenette",590,786);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Marshall",2291,1218),
+  ("Brett",1808,59),
+  ("Joel",156,503),
+  ("Blake",955,2150),
+  ("Lamar",876,1709),
+  ("Castor",2868,1121),
+  ("Emerald",2062,928),
+  ("Arthur",1137,2269),
+  ("Zena",990,2474),
+  ("Chase",1475,469);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Josiah",2008,977),
+  ("Michael",2631,2311),
+  ("Hanna",2881,795),
+  ("Scarlet",1227,846),
+  ("Donovan",1551,450),
+  ("Isaiah",2380,65),
+  ("Akeem",2229,730),
+  ("Wylie",70,1822),
+  ("Brendan",1938,374),
+  ("Ian",1343,103);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("James",1534,1810),
+  ("Alan",253,966),
+  ("Hunter",228,112),
+  ("Tyler",1646,1603),
+  ("Rebecca",2820,1605),
+  ("Henry",157,359),
+  ("Kamal",2506,2120),
+  ("Anika",880,277),
+  ("Hadassah",1792,2260),
+  ("Wyoming",636,1739);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gemma",482,198),
+  ("Joelle",2647,949),
+  ("Rogan",815,1469),
+  ("Cruz",2383,2279),
+  ("Linda",1228,873),
+  ("Alexis",769,700),
+  ("Jane",471,395),
+  ("Clare",2415,902),
+  ("Ima",2673,121),
+  ("Natalie",2646,2471);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Michael",2363,122),
+  ("Scott",90,1099),
+  ("Dominic",1402,2049),
+  ("April",1097,2340),
+  ("Wade",173,1065),
+  ("Signe",1519,989),
+  ("Cairo",2636,217),
+  ("Bruno",97,1193),
+  ("Lysandra",1755,1323),
+  ("Garrett",2173,2233);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("May",2430,2340),
+  ("Palmer",474,2374),
+  ("Mikayla",2869,1935),
+  ("Merrill",1514,964),
+  ("Thaddeus",415,402),
+  ("Thor",2400,1669),
+  ("Chancellor",1144,243),
+  ("Samson",790,873),
+  ("Dolan",2214,1532),
+  ("Jena",485,1085);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kirby",1622,241),
+  ("Roary",891,590),
+  ("Evangeline",1949,2482),
+  ("Sade",949,2106),
+  ("MacKenzie",1963,837),
+  ("Whoopi",2728,2315),
+  ("Ethan",295,1498),
+  ("Veda",652,443),
+  ("Haley",787,1019),
+  ("Christine",683,2006);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dale",710,108),
+  ("Bradley",1274,332),
+  ("Inga",429,1963),
+  ("Cain",893,275),
+  ("Charles",1189,270),
+  ("Hedda",222,1046),
+  ("Arden",1913,1134),
+  ("Rhoda",538,1572),
+  ("Gillian",2822,1653),
+  ("Simon",826,1595);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alfreda",495,1100),
+  ("Hedda",136,1203),
+  ("MacKenzie",58,988),
+  ("Derek",2141,1266),
+  ("Addison",594,35),
+  ("Lester",36,1885),
+  ("Alexander",1345,480),
+  ("Cadman",2330,863),
+  ("Noel",1757,1664),
+  ("Jana",2768,1124);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Leonard",71,827),
+  ("Gloria",704,1417),
+  ("Jillian",414,59),
+  ("Fulton",2723,1150),
+  ("Mercedes",2355,1365),
+  ("Bethany",2924,977),
+  ("Wynter",936,1795),
+  ("Brian",2223,1839),
+  ("Hashim",2194,1795),
+  ("Cyrus",843,2047);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Harlan",507,138),
+  ("Skyler",1808,1870),
+  ("Anthony",1618,791),
+  ("Kelsie",22,1666),
+  ("Caldwell",2758,1072),
+  ("Jelani",657,211),
+  ("Cain",1012,700),
+  ("Xavier",2641,948),
+  ("Camden",2593,149),
+  ("Aiko",955,1017);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Iola",680,409),
+  ("Timothy",2585,1339),
+  ("Hayley",360,1228),
+  ("Sheila",398,1108),
+  ("Cherokee",2699,1177),
+  ("Maxwell",2953,1313),
+  ("Daquan",862,1597),
+  ("Fatima",1947,2321),
+  ("Celeste",578,2368),
+  ("Jasper",81,1228);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Emily",1054,1655),
+  ("Alma",1585,691),
+  ("Emerson",1499,63),
+  ("Heidi",68,3),
+  ("Ezra",461,2177),
+  ("Yeo",220,750),
+  ("Derek",2596,832),
+  ("Kareem",1319,987),
+  ("Yuri",2105,2283),
+  ("Yoshio",744,1074);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sylvester",2313,1971),
+  ("Bell",1882,2227),
+  ("Deanna",433,2169),
+  ("Ora",2989,2069),
+  ("Robert",2866,301),
+  ("Brenna",861,1120),
+  ("Galena",617,1517),
+  ("Halla",360,1940),
+  ("Grady",1537,1268),
+  ("Raja",1571,241);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Acton",322,737),
+  ("Orson",1592,2344),
+  ("Rajah",2000,2063),
+  ("Keaton",354,1310),
+  ("Lydia",1910,839),
+  ("Colby",997,339),
+  ("Wendy",2883,1206),
+  ("Willa",684,587),
+  ("Rudyard",613,1791),
+  ("Emily",2525,2198);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nehru",493,2247),
+  ("Calvin",2028,261),
+  ("Luke",2275,781),
+  ("Wade",1279,723),
+  ("Deirdre",2757,1203),
+  ("Nina",2940,1925),
+  ("Michael",763,208),
+  ("Peter",602,430),
+  ("Alan",2401,1820),
+  ("Castor",61,160);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jesse",2234,1093),
+  ("Kieran",302,2120),
+  ("Igor",384,2239),
+  ("Caldwell",2400,1555),
+  ("Jolie",1095,1531),
+  ("Dana",798,1199),
+  ("Roth",199,1347),
+  ("Chase",1283,1119),
+  ("Armand",1863,27),
+  ("Fulton",800,1591);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Otto",601,1074),
+  ("Kennan",1507,1793),
+  ("Grady",897,1321),
+  ("Rose",2503,2464),
+  ("Kylan",1581,1849),
+  ("Roary",2100,872),
+  ("Brody",2719,1843),
+  ("Colleen",2335,581),
+  ("Katelyn",1165,711),
+  ("Savannah",1488,1488);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kylie",429,2200),
+  ("Conan",2232,13),
+  ("Sara",442,1650),
+  ("Daryl",2145,298),
+  ("Moses",6,2290),
+  ("Sebastian",2532,7),
+  ("Slade",808,1717),
+  ("Zelda",653,840),
+  ("Dane",1349,268),
+  ("Kasimir",502,1621);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jordan",1643,1609),
+  ("Yasir",573,796),
+  ("Colleen",1891,1731),
+  ("Fuller",2007,2493),
+  ("Omar",2838,40),
+  ("Candace",2890,222),
+  ("Tana",1244,1977),
+  ("Erica",574,131),
+  ("Bell",2803,879),
+  ("Katelyn",1987,2357);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nicholas",2907,936),
+  ("Chancellor",1679,99),
+  ("Arsenio",251,1352),
+  ("Barbara",2760,1908),
+  ("Price",1366,163),
+  ("Lucas",2704,1556),
+  ("Jerry",420,1959),
+  ("Willa",2579,2258),
+  ("Shelley",425,2039),
+  ("Macon",1936,2018);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Zahir",1050,511),
+  ("Linus",2954,2378),
+  ("Fay",2004,106),
+  ("Evan",1270,1834),
+  ("Francis",150,593),
+  ("Gannon",1257,2034),
+  ("Jerome",1134,134),
+  ("Sybil",1675,1516),
+  ("Maisie",1774,2098),
+  ("Tad",529,687);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kay",929,465),
+  ("Warren",1098,2134),
+  ("Plato",627,1519),
+  ("Keaton",2461,1516),
+  ("Jameson",2814,1456),
+  ("Myra",2690,1149),
+  ("Ignatius",2157,1405),
+  ("Cyrus",1540,555),
+  ("Yuli",247,553),
+  ("Echo",1419,2469);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("William",63,425),
+  ("Kermit",2035,231),
+  ("Wang",2281,597),
+  ("Callum",1138,1735),
+  ("Fulton",145,163),
+  ("Rogan",274,2076),
+  ("Jane",1678,541),
+  ("Rahim",158,1888),
+  ("Karina",929,1244),
+  ("Jaime",2743,246);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cade",282,141),
+  ("Blaze",2667,2325),
+  ("Rahim",2649,446),
+  ("Yetta",2595,875),
+  ("Raymond",1544,374),
+  ("Yael",1646,1442),
+  ("Nathan",1814,574),
+  ("Martin",1278,1940),
+  ("Ulric",1080,2494),
+  ("Tashya",1168,1184);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Willa",1755,692),
+  ("Barry",1335,1870),
+  ("Eagan",1917,427),
+  ("Lillith",121,1147),
+  ("Noelle",1035,1849),
+  ("Thane",1668,1486),
+  ("Maggie",966,55),
+  ("Chandler",486,582),
+  ("Kaitlin",1058,1855),
+  ("Hamish",1602,1965);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gabriel",2637,1441),
+  ("Tucker",1848,2098),
+  ("Ifeoma",1025,1075),
+  ("Briar",2810,2294),
+  ("Guinevere",2658,18),
+  ("Hakeem",2589,55),
+  ("Chancellor",1905,2223),
+  ("Hollee",2389,2014),
+  ("Aiko",2465,2112),
+  ("Seth",222,2131);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("James",1569,1800),
+  ("Vielka",460,742),
+  ("Paula",557,538),
+  ("Gregory",2098,2139),
+  ("Zenia",779,540),
+  ("Fiona",1823,750),
+  ("Oliver",1820,1948),
+  ("Wanda",1892,684),
+  ("Naomi",2566,2113),
+  ("David",2988,281);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Germane",2550,1026),
+  ("Irene",1348,642),
+  ("Moana",1065,814),
+  ("Sydnee",433,842),
+  ("Tana",1393,249),
+  ("Avye",2775,970),
+  ("Griffith",486,266),
+  ("Sarah",330,1350),
+  ("Lucius",1168,550),
+  ("Lewis",214,1411);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Uriel",684,652),
+  ("Hayfa",2394,694),
+  ("Emma",2725,2183),
+  ("Amber",1232,1970),
+  ("Brandon",514,1738),
+  ("Connor",334,458),
+  ("Harriet",940,1462),
+  ("Petra",1524,1292),
+  ("Yael",2300,2215),
+  ("Chiquita",1102,1386);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kelsie",2477,2367),
+  ("Ainsley",1077,1530),
+  ("Nash",2663,138),
+  ("Lareina",1070,1101),
+  ("Shad",2617,970),
+  ("Elmo",2287,1889),
+  ("Dexter",2524,1799),
+  ("Yeo",894,1280),
+  ("Kellie",1606,393),
+  ("Madison",1578,1939);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sylvester",1491,889),
+  ("Pearl",2122,680),
+  ("Garrison",2470,1287),
+  ("Omar",241,2443),
+  ("Dorothy",190,50),
+  ("Anika",2568,2483),
+  ("Lucas",2934,1506),
+  ("Hiroko",2087,1518),
+  ("Lillith",1462,2168),
+  ("Octavius",155,267);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wade",1494,1314),
+  ("Jade",2580,2216),
+  ("Conan",1859,1798),
+  ("Jolie",2633,1730),
+  ("Mollie",1903,186),
+  ("Coby",2220,1128),
+  ("Chaim",2918,748),
+  ("Lani",2501,1747),
+  ("Kiona",2144,148),
+  ("Harper",572,423);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ashely",2699,1188),
+  ("Lillian",663,1967),
+  ("Cooper",899,1862),
+  ("Yolanda",644,2118),
+  ("Jermaine",403,1106),
+  ("Dante",2465,787),
+  ("Finn",2965,864),
+  ("Eaton",2429,1470),
+  ("Gregory",1175,1312),
+  ("Lara",1125,383);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lane",2327,1319),
+  ("Allen",541,582),
+  ("Jeanette",2775,1),
+  ("Ifeoma",1459,175),
+  ("Catherine",207,2437),
+  ("Hedda",2560,1648),
+  ("Lynn",699,194),
+  ("Yeo",2216,2108),
+  ("Preston",2003,135),
+  ("Josephine",2467,2308);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Phoebe",1235,2281),
+  ("Arthur",2461,32),
+  ("Melinda",571,2436),
+  ("Cheyenne",1307,1485),
+  ("Dieter",820,12),
+  ("Knox",2399,1582),
+  ("Quintessa",1002,827),
+  ("Summer",2487,1471),
+  ("Zachery",1437,1080),
+  ("Addison",2572,1474);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Willa",2779,783),
+  ("Charity",1715,1060),
+  ("Fitzgerald",2825,1627),
+  ("Jeremy",1779,293),
+  ("Charles",2695,517),
+  ("Lewis",1123,2451),
+  ("Vivien",2445,130),
+  ("Ronan",629,601),
+  ("Ainsley",2753,1929),
+  ("Eaton",2832,1285);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Quinn",2856,1434),
+  ("Armando",888,471),
+  ("Emery",238,1676),
+  ("Alisa",1525,2316),
+  ("Ignacia",98,309),
+  ("Igor",1342,1916),
+  ("Craig",645,318),
+  ("George",2298,355),
+  ("Isabella",2879,424),
+  ("Kellie",667,638);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gloria",1412,1342),
+  ("Travis",1520,1292),
+  ("Abbot",2547,1907),
+  ("Byron",1731,1304),
+  ("Devin",346,201),
+  ("Aimee",2731,2074),
+  ("Nola",1598,591),
+  ("Neville",749,1808),
+  ("Benjamin",1392,1608),
+  ("Kimberley",187,1112);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shafira",849,917),
+  ("Derek",231,435),
+  ("Garrett",700,2124),
+  ("Michael",1072,806),
+  ("Hayfa",370,2474),
+  ("Ruth",2740,2361),
+  ("Sean",1704,1544),
+  ("Ann",854,12),
+  ("Rebecca",2242,2137),
+  ("Libby",1068,1370);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Clementine",1864,2257),
+  ("Erin",702,249),
+  ("Signe",661,2360),
+  ("Shoshana",719,1119),
+  ("Callum",849,533),
+  ("Erasmus",1467,1699),
+  ("Justina",2342,2019),
+  ("Buckminster",2154,867),
+  ("Ursa",1921,1541),
+  ("Blossom",993,1494);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Iris",1373,1496),
+  ("Cadman",1497,2455),
+  ("Nina",2178,364),
+  ("Alexander",1131,289),
+  ("Kimberley",571,1210),
+  ("Christian",2687,1972),
+  ("Calvin",1164,834),
+  ("Nash",2783,1763),
+  ("September",2229,1333),
+  ("Neil",1755,657);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brett",2843,1301),
+  ("Alec",109,1648),
+  ("Marshall",1688,2036),
+  ("Nash",44,1506),
+  ("Harlan",1416,2316),
+  ("Alika",2196,1283),
+  ("Hannah",1876,1340),
+  ("Buckminster",233,2243),
+  ("Jack",2374,2105),
+  ("Zena",1899,1523);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cruz",134,2257),
+  ("Dara",1610,436),
+  ("Zenaida",20,1683),
+  ("Shea",238,314),
+  ("Sylvia",1146,1707),
+  ("Isabelle",1290,494),
+  ("Jack",231,1004),
+  ("Oprah",784,1912),
+  ("Shana",363,17),
+  ("Nasim",173,645);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jackson",1490,836),
+  ("Tanek",428,1963),
+  ("Keely",2879,1938),
+  ("Chanda",1689,961),
+  ("Ronan",440,1830),
+  ("Joshua",419,2148),
+  ("Georgia",1769,249),
+  ("Tanisha",2595,258),
+  ("Nadine",2377,927),
+  ("Beatrice",1032,1006);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hedy",757,663),
+  ("Chloe",878,450),
+  ("Naomi",1643,2048),
+  ("Sonya",1151,787),
+  ("Tobias",159,2455),
+  ("Jonas",2216,22),
+  ("Victor",2885,1603),
+  ("Zeus",263,2486),
+  ("Chaim",312,1103),
+  ("George",1811,2366);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Fitzgerald",1855,1680),
+  ("Fletcher",1520,1419),
+  ("Francesca",1498,1804),
+  ("Oliver",1299,98),
+  ("Judah",2546,1126),
+  ("Knox",2440,2187),
+  ("Amal",1033,131),
+  ("Nero",1971,1420),
+  ("Carol",2969,791),
+  ("Carol",2734,2334);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Baker",337,2358),
+  ("Byron",1433,495),
+  ("Ashely",1046,1772),
+  ("Levi",938,1196),
+  ("Nathan",2820,1102),
+  ("Teegan",1373,765),
+  ("Stacey",1276,31),
+  ("Vielka",2471,75),
+  ("Hasad",2296,1024),
+  ("Margaret",38,622);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Britanni",1309,2320),
+  ("Kevyn",1110,995),
+  ("Basil",1344,1959),
+  ("Vera",1130,383),
+  ("Sandra",2909,411),
+  ("Gillian",2973,2099),
+  ("Anjolie",1515,2083),
+  ("Keiko",1163,1804),
+  ("William",1614,232),
+  ("Sybill",1249,1579);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Oprah",2211,830),
+  ("Dominique",2942,1161),
+  ("Kelsey",809,1803),
+  ("Octavia",1438,2476),
+  ("Keaton",1777,1739),
+  ("Barbara",2096,1572),
+  ("Kristen",303,332),
+  ("Rafael",1525,1872),
+  ("Kieran",1765,646),
+  ("Otto",932,1670);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dante",255,60),
+  ("Fuller",1955,202),
+  ("Avram",1927,105),
+  ("Cyrus",1367,1162),
+  ("Bo",2079,379),
+  ("Cailin",1055,2002),
+  ("Berk",1956,1918),
+  ("Anne",559,2171),
+  ("Tucker",2971,1679),
+  ("Ursula",549,4);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dante",1362,827),
+  ("Maxwell",2946,1328),
+  ("Bradley",1842,1470),
+  ("Ingrid",168,1338),
+  ("Hall",2783,909),
+  ("Mallory",1243,333),
+  ("Neve",1949,1199),
+  ("Shea",47,393),
+  ("Magee",1703,1913),
+  ("Tasha",1499,517);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Daquan",1173,63),
+  ("Germane",650,305),
+  ("Salvador",685,1478),
+  ("Chanda",92,415),
+  ("Ferris",941,1257),
+  ("Cora",2632,530),
+  ("Fitzgerald",2540,1425),
+  ("Barrett",1708,1381),
+  ("Jack",50,1490),
+  ("Norman",2262,376);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Philip",1013,815),
+  ("Orli",2024,1592),
+  ("Walter",1218,490),
+  ("Victor",2510,1839),
+  ("Aidan",157,1554),
+  ("Amethyst",2193,302),
+  ("Anika",23,389),
+  ("Alfreda",887,1782),
+  ("Jermaine",2087,877),
+  ("Chava",1027,1114);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Camden",917,1688),
+  ("Darryl",2316,2334),
+  ("Abraham",1439,1956),
+  ("Ivy",1821,923),
+  ("Shoshana",1240,137),
+  ("Benedict",1441,87),
+  ("Kaseem",1861,594),
+  ("Giacomo",459,373),
+  ("Madeson",2742,164),
+  ("Brittany",2028,951);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lydia",1335,1055),
+  ("Nadine",351,1216),
+  ("Jameson",751,2262),
+  ("Mannix",153,538),
+  ("Rebecca",698,1548),
+  ("Derek",2689,2479),
+  ("Francesca",1535,1226),
+  ("Kyla",782,939),
+  ("Jael",12,2258),
+  ("Julie",298,227);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nomlanga",539,1487),
+  ("Joy",1051,2295),
+  ("Vielka",2989,1074),
+  ("Kerry",844,67),
+  ("Uriah",1237,548),
+  ("Clark",1416,1443),
+  ("Maisie",1807,512),
+  ("Daniel",472,2053),
+  ("Leonard",1548,198),
+  ("Naomi",912,1746);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Aspen",993,1810),
+  ("Jerome",148,1211),
+  ("Ursula",1904,2024),
+  ("Cain",2327,684),
+  ("Gloria",73,504),
+  ("Isabella",1710,194),
+  ("Craig",1673,256),
+  ("Kai",654,414),
+  ("Willa",695,413),
+  ("Ivan",2118,1934);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Abbot",1871,1626),
+  ("Hadley",2173,145),
+  ("Moses",287,2170),
+  ("Todd",559,2466),
+  ("Ivory",2315,1374),
+  ("Jordan",615,1685),
+  ("Juliet",1959,1127),
+  ("Chloe",1474,375),
+  ("Amaya",1072,1961),
+  ("Quin",1205,1772);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ivory",1113,2151),
+  ("Cedric",364,678),
+  ("Caleb",1717,759),
+  ("Zephania",15,1591),
+  ("Chastity",2376,1313),
+  ("Indira",296,1300),
+  ("Macon",1263,996),
+  ("Wyoming",1206,2298),
+  ("Francesca",1429,974),
+  ("Mariam",981,1677);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kennedy",1424,367),
+  ("Flynn",779,1882),
+  ("Nayda",1705,2491),
+  ("Zeus",780,1661),
+  ("Cally",473,1734),
+  ("Jaquelyn",1018,1530),
+  ("Jennifer",578,316),
+  ("Xander",2458,2120),
+  ("Meredith",1711,2251),
+  ("Neve",687,38);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Scott",1075,2124),
+  ("Adrienne",1505,655),
+  ("Amir",791,31),
+  ("Calista",1804,92),
+  ("Kylie",2811,1302),
+  ("Rajah",1889,2447),
+  ("Kuame",65,347),
+  ("Tallulah",668,203),
+  ("Athena",932,89),
+  ("Lila",2247,2142);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ryan",963,2396),
+  ("Idona",2970,1710),
+  ("Demetria",29,740),
+  ("Kasper",2895,2130),
+  ("Mira",2089,2346),
+  ("Cassandra",2027,1706),
+  ("Burton",2951,1821),
+  ("Urielle",1486,542),
+  ("Rebecca",1432,2489),
+  ("Aphrodite",1233,521);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Caleb",2567,2290),
+  ("Shelby",2747,1744),
+  ("Catherine",507,155),
+  ("Erica",958,1649),
+  ("Echo",2147,1127),
+  ("Randall",139,562),
+  ("Melissa",2504,719),
+  ("Gareth",2821,484),
+  ("Ivy",1413,30),
+  ("Walter",96,437);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Melvin",2980,2158),
+  ("Ivana",1085,360),
+  ("Aidan",2166,1248),
+  ("August",79,879),
+  ("Acton",429,17),
+  ("Keane",182,1638),
+  ("Vladimir",565,2258),
+  ("Odette",24,1048),
+  ("Demetria",2526,1076),
+  ("Bell",99,1512);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Oleg",1954,675),
+  ("Harper",757,621),
+  ("Malachi",430,1201),
+  ("Justin",1152,2356),
+  ("Ezra",2280,275),
+  ("Virginia",653,704),
+  ("Brynne",1968,211),
+  ("Teagan",1892,65),
+  ("Arthur",1404,2005),
+  ("Steven",291,138);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Clinton",2635,305),
+  ("Rhoda",1471,2284),
+  ("Lars",1999,576),
+  ("Melvin",1157,1680),
+  ("September",810,627),
+  ("Nita",1140,2253),
+  ("Shelley",1983,1600),
+  ("Kyla",2199,50),
+  ("Clayton",1811,1112),
+  ("Guinevere",982,1082);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Beck",1015,1356),
+  ("Garrison",441,498),
+  ("Adam",459,1479),
+  ("Tana",421,318),
+  ("Cailin",1753,1872),
+  ("Kane",1852,2472),
+  ("Steel",1430,1958),
+  ("Justina",1492,826),
+  ("Garrison",138,2246),
+  ("Jolie",2387,657);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Heather",2198,1161),
+  ("Dexter",1637,329),
+  ("Laurel",1746,1255),
+  ("Kenneth",128,1277),
+  ("Madonna",635,2059),
+  ("Justin",891,1276),
+  ("Hammett",2641,956),
+  ("Amal",412,1197),
+  ("Camilla",2037,544),
+  ("Ray",328,1750);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Imogene",1676,641),
+  ("Dexter",1091,417),
+  ("Kamal",2743,1007),
+  ("Martina",2241,1250),
+  ("Britanney",2722,492),
+  ("Allen",725,17),
+  ("Zena",2565,557),
+  ("Nehru",320,1936),
+  ("Phyllis",142,1177),
+  ("Orlando",348,2011);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Linda",2534,524),
+  ("Sandra",2620,47),
+  ("Martina",2292,1248),
+  ("Cedric",1188,1295),
+  ("Graiden",2854,982),
+  ("Brynn",1646,187),
+  ("Yeo",1921,1764),
+  ("Caesar",2353,261),
+  ("Hadley",2467,2150),
+  ("Maggie",470,109);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Acton",1928,1000),
+  ("Erica",1200,1227),
+  ("Knox",2568,689),
+  ("Stephen",759,1880),
+  ("Cairo",1493,1967),
+  ("Rashad",127,99),
+  ("Sydnee",2331,1933),
+  ("Frances",2337,1158),
+  ("Brett",2045,101),
+  ("Malcolm",2282,1847);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Heather",1783,160),
+  ("Briar",2660,1908),
+  ("Paki",2248,210),
+  ("Cain",256,73),
+  ("Palmer",1867,1481),
+  ("Claire",2513,1302),
+  ("Bruce",1104,1166),
+  ("Reed",320,905),
+  ("Alexis",302,1065),
+  ("Kevin",2100,1000);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kirby",754,1405),
+  ("Dominique",2606,2051),
+  ("Tatyana",2196,615),
+  ("Nathaniel",627,2069),
+  ("Whilemina",359,414),
+  ("Lisandra",2304,179),
+  ("Martin",165,1701),
+  ("Blake",1853,2285),
+  ("Calista",570,571),
+  ("Dean",340,1154);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mechelle",430,1009),
+  ("Ira",1175,182),
+  ("Branden",51,2424),
+  ("Dennis",864,534),
+  ("Rhiannon",2790,1551),
+  ("Mia",1553,94),
+  ("Jemima",2443,2229),
+  ("Rachel",1845,2159),
+  ("Kimberley",2823,1779),
+  ("Portia",221,1594);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Penelope",1268,2125),
+  ("Anastasia",732,46),
+  ("Carter",650,769),
+  ("Chaney",1362,2338),
+  ("Martin",1597,298),
+  ("Amity",1651,942),
+  ("Ulric",256,927),
+  ("Moses",1100,1104),
+  ("Phillip",2594,2352),
+  ("Joshua",1306,1076);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mohammad",409,339),
+  ("Darius",2625,361),
+  ("Drew",403,720),
+  ("Britanney",1389,790),
+  ("Buffy",2552,202),
+  ("Kiara",1455,557),
+  ("Keelie",2733,680),
+  ("Ahmed",76,276),
+  ("Kessie",542,395),
+  ("Teegan",889,966);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Colt",2163,1889),
+  ("Micah",953,1328),
+  ("Inga",2275,561),
+  ("Jayme",395,497),
+  ("Mohammad",513,1318),
+  ("Channing",1801,2058),
+  ("Hollee",77,1612),
+  ("Hayley",1910,873),
+  ("Felicia",2544,1314),
+  ("Coby",1390,1131);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Veronica",2410,2104),
+  ("Christian",1199,2297),
+  ("Mufutau",553,1099),
+  ("Kenyon",2301,1630),
+  ("Sebastian",343,1372),
+  ("Callie",1983,1728),
+  ("Abel",2765,1005),
+  ("Idola",2552,1012),
+  ("Beck",2446,696),
+  ("Riley",1757,1375);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tucker",2544,389),
+  ("Ignacia",2124,35),
+  ("Quynn",1239,874),
+  ("Aurora",1070,154),
+  ("Leah",2535,681),
+  ("Alden",2437,1606),
+  ("Barclay",2364,1854),
+  ("Orli",521,1596),
+  ("Rana",727,1892),
+  ("Maisie",2442,2342);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Charles",1261,1063),
+  ("Hyatt",670,2209),
+  ("Quinlan",1183,528),
+  ("Kelsie",1249,84),
+  ("Tanya",2333,722),
+  ("Janna",2583,2162),
+  ("Patience",2856,1705),
+  ("Aaron",2462,897),
+  ("Keaton",924,635),
+  ("Sigourney",878,1304);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Leslie",172,496),
+  ("Molly",456,2163),
+  ("Nayda",2720,2290),
+  ("Daphne",2815,2051),
+  ("Quynn",1205,2251),
+  ("Linus",2888,1232),
+  ("Baxter",530,1705),
+  ("Chaim",641,1399),
+  ("Zeph",2297,144),
+  ("Tobias",1429,2112);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Francis",2717,607),
+  ("Clarke",2062,975),
+  ("Mia",1115,1306),
+  ("Gage",105,718),
+  ("Nelle",1774,1990),
+  ("Michelle",258,608),
+  ("Harding",2944,1012),
+  ("Laura",2240,1324),
+  ("Gillian",2340,698),
+  ("Xavier",2452,576);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mercedes",1690,1233),
+  ("Brent",425,595),
+  ("Pearl",2482,392),
+  ("Damon",2222,828),
+  ("Zelenia",423,1491),
+  ("Paula",2543,1566),
+  ("Keane",2941,498),
+  ("Joy",1694,1626),
+  ("Donna",2842,2172),
+  ("Damon",883,613);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mia",2694,1394),
+  ("Tana",1695,1233),
+  ("Ezra",2878,2390),
+  ("Hammett",2192,1077),
+  ("Nasim",1586,1550),
+  ("Travis",946,1983),
+  ("Thane",300,1037),
+  ("Barry",419,1282),
+  ("Macy",1415,647),
+  ("Xantha",217,844);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jennifer",1166,631),
+  ("Kamal",2150,923),
+  ("Phillip",2701,2273),
+  ("Astra",2856,220),
+  ("Kennedy",2179,1310),
+  ("Alisa",2184,455),
+  ("Leilani",2848,1835),
+  ("Beverly",529,1947),
+  ("Sybil",162,176),
+  ("Isaac",1492,1567);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Macy",590,177),
+  ("Victor",1119,2143),
+  ("Noelani",1960,843),
+  ("Eleanor",1710,790),
+  ("Katell",2380,85),
+  ("Sydney",85,185),
+  ("Rama",1602,226),
+  ("James",1368,285),
+  ("Geraldine",1716,1226),
+  ("Cassandra",2102,955);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Salvador",920,1203),
+  ("Randall",511,125),
+  ("Hilel",1825,1141),
+  ("Abbot",1573,326),
+  ("Clayton",2831,393),
+  ("Jeremy",1834,2424),
+  ("Dante",476,1314),
+  ("Penelope",1594,1830),
+  ("Christen",2101,343),
+  ("Kimberley",2628,526);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Quentin",615,500),
+  ("Kenneth",2216,877),
+  ("Alexis",932,131),
+  ("Wyoming",1212,1118),
+  ("Lars",1497,2327),
+  ("Declan",2035,347),
+  ("Ria",578,2163),
+  ("Yardley",2413,1032),
+  ("Lisandra",2914,750),
+  ("Chaim",1422,1059);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hiram",945,224),
+  ("Laith",2935,977),
+  ("Martina",348,276),
+  ("Yasir",2395,1690),
+  ("Chase",1220,1584),
+  ("Yvonne",296,207),
+  ("Isaiah",2816,400),
+  ("Marshall",2531,2485),
+  ("Thaddeus",1389,964),
+  ("Courtney",2104,2172);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lareina",191,1883),
+  ("Brianna",869,1570),
+  ("Deborah",2463,1102),
+  ("Flavia",885,157),
+  ("Hannah",2016,9),
+  ("Kennan",2417,1771),
+  ("Nasim",696,1479),
+  ("Cailin",2515,1045),
+  ("Patience",766,1046),
+  ("Elliott",1965,1515);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Maryam",2281,1693),
+  ("Kitra",1381,903),
+  ("Kaitlin",1028,2348),
+  ("Merritt",1869,1318),
+  ("Cherokee",563,2307),
+  ("Fletcher",1719,291),
+  ("Raymond",170,1877),
+  ("Declan",139,1222),
+  ("Malik",2802,1339),
+  ("Josiah",368,336);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ignatius",70,231),
+  ("Alan",286,2219),
+  ("Kadeem",2126,934),
+  ("Erich",1841,28),
+  ("Colton",942,1441),
+  ("Rowan",1518,2003),
+  ("Tanek",2128,1980),
+  ("Graham",2252,2083),
+  ("Joel",1804,1675),
+  ("Marvin",2425,2456);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Armando",170,1523),
+  ("Tamekah",1834,2020),
+  ("Jerry",2903,762),
+  ("Maia",2298,516),
+  ("Harper",2694,2005),
+  ("Graiden",756,2162),
+  ("Guy",979,2151),
+  ("Kieran",1972,1692),
+  ("Cailin",2517,1590),
+  ("Beck",1460,581);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cameron",1262,39),
+  ("Garrett",1959,79),
+  ("Marny",2397,510),
+  ("Rowan",1422,174),
+  ("Wade",1923,2144),
+  ("Abdul",2961,306),
+  ("Channing",945,1486),
+  ("Xyla",680,2416),
+  ("Jelani",1598,1162),
+  ("Merritt",2405,1678);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Neil",1875,701),
+  ("Gage",1562,1439),
+  ("Phillip",1273,1288),
+  ("Perry",99,1953),
+  ("Wendy",1931,1717),
+  ("Cassidy",2937,813),
+  ("Cullen",718,2002),
+  ("Quamar",1819,889),
+  ("Germane",2188,1377),
+  ("Avye",1629,163);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Megan",2915,926),
+  ("Fritz",1304,1114),
+  ("India",278,383),
+  ("Yoko",791,925),
+  ("Vincent",2116,2031),
+  ("Blythe",1028,277),
+  ("Wyatt",98,1360),
+  ("Camille",1004,2420),
+  ("Aidan",64,464),
+  ("Cora",362,1173);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lucian",588,506),
+  ("Rahim",1004,966),
+  ("Kamal",333,348),
+  ("Paki",404,1291),
+  ("Zia",2228,1710),
+  ("Jennifer",458,474),
+  ("Tiger",1527,640),
+  ("Charlotte",2783,1312),
+  ("Myles",2983,1031),
+  ("Wyatt",562,428);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mollie",1072,906),
+  ("Hyatt",1189,2335),
+  ("Porter",1923,1330),
+  ("Riley",1158,961),
+  ("Chiquita",1400,1409),
+  ("Porter",2001,2165),
+  ("Erich",2292,489),
+  ("Clementine",767,1591),
+  ("Gil",1425,2163),
+  ("Nyssa",1883,1248);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ezra",1266,124),
+  ("Louis",1826,309),
+  ("Zephr",47,908),
+  ("Chantale",1742,1772),
+  ("Lucius",2126,2364),
+  ("Thor",1394,933),
+  ("Dillon",2196,2153),
+  ("Barbara",279,1113),
+  ("Clayton",2386,331),
+  ("Leah",1156,207);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Melinda",50,1744),
+  ("Whilemina",1236,515),
+  ("Ferdinand",363,1030),
+  ("McKenzie",1580,1164),
+  ("Dominic",1044,359),
+  ("Charde",1956,291),
+  ("Justin",350,1135),
+  ("Kylynn",947,2318),
+  ("Risa",950,145),
+  ("Drake",2,1587);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Karleigh",2577,2375),
+  ("Sonya",1125,1460),
+  ("Davis",1241,936),
+  ("Murphy",2131,1925),
+  ("Clayton",404,1648),
+  ("Emery",2571,147),
+  ("Davis",1171,2393),
+  ("Remedios",2403,1676),
+  ("Isaiah",2695,1187),
+  ("Elvis",2088,1452);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mollie",2884,907),
+  ("Lamar",1140,2452),
+  ("Cruz",338,1016),
+  ("Wanda",116,1239),
+  ("Giacomo",772,301),
+  ("Nayda",326,1356),
+  ("Aphrodite",388,112),
+  ("Winter",1495,1688),
+  ("Dara",804,521),
+  ("Melodie",2909,2409);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Byron",888,2057),
+  ("Virginia",2729,2471),
+  ("Uriel",2607,1611),
+  ("Kasimir",1932,292),
+  ("Brendan",872,752),
+  ("Julian",1768,74),
+  ("Amity",688,2118),
+  ("Georgia",2604,1448),
+  ("Rose",646,249),
+  ("Alisa",472,1814);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Irma",2090,126),
+  ("Jayme",2537,898),
+  ("Armando",847,830),
+  ("Perry",1156,674),
+  ("Kelsie",1886,1313),
+  ("Laura",1638,178),
+  ("Octavia",2591,2365),
+  ("Rogan",1255,1589),
+  ("Rosalyn",1555,245),
+  ("Deborah",2361,891);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tate",882,2223),
+  ("Uta",1780,1378),
+  ("Erasmus",1792,1990),
+  ("Ahmed",1662,1029),
+  ("Malcolm",669,1749),
+  ("Patience",184,331),
+  ("Sonya",581,1608),
+  ("Ethan",1138,194),
+  ("Germaine",490,564),
+  ("Cassandra",209,2021);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Berk",2360,827),
+  ("Alfreda",1491,1142),
+  ("Halee",468,730),
+  ("Amity",1291,1092),
+  ("Rajah",1929,1275),
+  ("Quintessa",1926,2294),
+  ("Carson",754,386),
+  ("Kimberly",2235,2200),
+  ("Velma",323,2270),
+  ("Benjamin",2935,1866);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Craig",1826,2456),
+  ("Rina",71,2104),
+  ("Mufutau",1244,198),
+  ("Yoko",2676,2015),
+  ("Iris",135,1720),
+  ("Erasmus",1890,2221),
+  ("Hilary",2138,1371),
+  ("Molly",2096,2380),
+  ("Noah",1595,431),
+  ("Ishmael",2148,1664);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dustin",2723,607),
+  ("Guinevere",2643,1275),
+  ("Rahim",594,1436),
+  ("Yasir",2334,1896),
+  ("Amy",1831,1708),
+  ("Brenna",2319,1008),
+  ("Chantale",41,1345),
+  ("Ignatius",1225,2042),
+  ("Uriah",1464,1515),
+  ("Bruno",771,12);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Timon",568,188),
+  ("Brynn",237,739),
+  ("Neil",1702,1189),
+  ("Gillian",77,167),
+  ("Hadley",2071,930),
+  ("Marsden",398,2373),
+  ("Alan",2497,225),
+  ("George",670,206),
+  ("Kelsey",140,1260),
+  ("Oscar",1942,985);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Otto",2462,2135),
+  ("Phelan",1581,529),
+  ("Plato",1260,1681),
+  ("Plato",1860,1219),
+  ("Davis",690,162),
+  ("Brock",125,109),
+  ("Penelope",1016,2360),
+  ("Claudia",1213,973),
+  ("Lynn",32,199),
+  ("Dean",2115,2429);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nicholas",90,1929),
+  ("Marsden",2070,1495),
+  ("Autumn",2280,1151),
+  ("Breanna",1880,1348),
+  ("Emily",1985,1354),
+  ("Octavia",2091,1642),
+  ("Quinlan",1290,716),
+  ("Aiko",992,751),
+  ("Maia",1102,1080),
+  ("Herrod",1906,485);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Haley",2899,1042),
+  ("Stone",14,1323),
+  ("Quemby",1175,1183),
+  ("Wendy",239,2187),
+  ("Yoshi",1075,1146),
+  ("Alec",214,2339),
+  ("Chase",1811,2045),
+  ("Shana",2564,1908),
+  ("Keiko",2638,2246),
+  ("Miranda",2995,1288);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mariam",2568,2336),
+  ("Bert",180,2194),
+  ("Ingrid",677,2297),
+  ("Keane",1358,2345),
+  ("Malachi",1492,339),
+  ("Deirdre",2476,2162),
+  ("Charles",2571,535),
+  ("Justine",2401,1662),
+  ("Lester",840,1498),
+  ("Carolyn",783,482);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Miriam",2788,1204),
+  ("Samuel",648,2466),
+  ("Kaseem",2851,750),
+  ("Camille",85,1893),
+  ("Quinn",1470,255),
+  ("Nadine",577,725),
+  ("Isabella",595,791),
+  ("Francis",1044,1809),
+  ("Keaton",573,2433),
+  ("Diana",153,1351);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cody",2768,520),
+  ("Inga",2063,438),
+  ("Jason",1662,284),
+  ("Dolan",1317,1219),
+  ("Jade",2583,1719),
+  ("Arsenio",1681,535),
+  ("Vladimir",2981,620),
+  ("Keely",2417,2448),
+  ("Xena",176,2064),
+  ("Imelda",2478,2158);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lester",559,1470),
+  ("Chava",2015,1499),
+  ("Austin",1509,558),
+  ("Shellie",1425,1135),
+  ("Charde",6,1284),
+  ("Griffin",672,1063),
+  ("Neve",2602,1359),
+  ("Xaviera",360,2026),
+  ("Sara",1526,681),
+  ("Kelly",526,1255);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Oleg",120,788),
+  ("Hoyt",2626,1814),
+  ("Whoopi",1096,420),
+  ("Levi",779,1332),
+  ("Jack",1171,1816),
+  ("Emery",1794,1060),
+  ("Lunea",2451,2362),
+  ("Walter",736,215),
+  ("Abdul",890,1470),
+  ("Adena",143,1044);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kaseem",104,1825),
+  ("Fritz",1082,2393),
+  ("Fuller",1574,1502),
+  ("Talon",349,1232),
+  ("Tobias",2568,1338),
+  ("Lionel",61,329),
+  ("Boris",2142,614),
+  ("Lydia",457,1159),
+  ("Dolan",907,1484),
+  ("Solomon",1187,2326);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Clark",2878,370),
+  ("Jenette",1320,236),
+  ("Roth",1294,1671),
+  ("Ali",1804,748),
+  ("Keane",773,411),
+  ("Nolan",2737,1430),
+  ("Salvador",2525,145),
+  ("Madaline",155,1500),
+  ("Kasper",2079,2285),
+  ("Zorita",1821,1115);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ali",701,1666),
+  ("Oliver",2101,2353),
+  ("Hadassah",1362,291),
+  ("Sean",136,793),
+  ("Jorden",2867,2007),
+  ("Hillary",319,1282),
+  ("Armando",2299,2446),
+  ("Solomon",1327,1935),
+  ("Ulric",466,1075),
+  ("Dorothy",579,2241);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chloe",2623,2319),
+  ("Ulric",2275,1133),
+  ("Jerome",148,1177),
+  ("Inez",102,2264),
+  ("Jillian",2428,17),
+  ("Ruth",2857,1756),
+  ("Caleb",1575,2433),
+  ("Desirae",2714,493),
+  ("Thomas",111,427),
+  ("Anthony",359,939);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Neville",2995,1791),
+  ("Yasir",1811,277),
+  ("Kelly",1309,1254),
+  ("Kirby",2054,492),
+  ("Jasper",2352,1498),
+  ("Erin",1917,1198),
+  ("Marny",2377,228),
+  ("Cadman",2823,316),
+  ("Steel",2036,514),
+  ("Tarik",2040,2385);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Patience",2622,2226),
+  ("Stella",2669,225),
+  ("Reed",875,1760),
+  ("Sawyer",293,1736),
+  ("Barry",2877,758),
+  ("August",264,649),
+  ("Francis",2855,1452),
+  ("Jason",610,1314),
+  ("Margaret",316,1493),
+  ("Chastity",2276,1099);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wyoming",1254,1380),
+  ("Devin",2163,1271),
+  ("Anthony",2267,108),
+  ("Ulla",1436,634),
+  ("MacKenzie",2669,1668),
+  ("Ava",2289,1308),
+  ("Amena",887,955),
+  ("Ethan",2423,1742),
+  ("Mohammad",1342,304),
+  ("Britanney",1309,2200);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Caesar",56,1651),
+  ("Yvonne",1105,1365),
+  ("Jessica",1469,1258),
+  ("Reuben",2619,96),
+  ("Mannix",926,948),
+  ("Abel",1781,1254),
+  ("Nina",1733,967),
+  ("Courtney",2280,216),
+  ("Rhiannon",2995,332),
+  ("Clarke",1419,1035);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Garth",640,1626),
+  ("Linda",2444,1532),
+  ("Destiny",681,1170),
+  ("Shaeleigh",1622,2456),
+  ("Hanna",621,270),
+  ("Aphrodite",755,1491),
+  ("Nina",179,1552),
+  ("Brody",589,670),
+  ("Avye",1348,1019),
+  ("Wesley",2837,1136);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dante",1708,1240),
+  ("Tanisha",1615,1988),
+  ("Leilani",1018,1783),
+  ("August",2441,2126),
+  ("Yvonne",2402,380),
+  ("Ayanna",1629,562),
+  ("Rosalyn",1476,2028),
+  ("Cameron",1592,43),
+  ("Gary",1142,1568),
+  ("Burton",1226,1306);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Keefe",2214,2497),
+  ("Felix",724,2341),
+  ("Tanisha",237,1543),
+  ("Herman",1309,1669),
+  ("Dexter",193,1440),
+  ("Quyn",1994,2027),
+  ("Kennedy",949,2297),
+  ("Nora",2776,2168),
+  ("Logan",89,2216),
+  ("Quyn",1365,41);
+  INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Buckminster",1453,141),
+  ("Denton",2971,165),
+  ("Lane",1737,426),
+  ("Hadassah",2180,1461),
+  ("Tamara",864,1572),
+  ("Matthew",1257,2202),
+  ("Conan",653,836),
+  ("Hilel",2404,786),
+  ("Preston",2501,1547),
+  ("Ina",397,417);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Odysseus",255,2019),
+  ("Hayley",87,2438),
+  ("Samson",905,884),
+  ("Hasad",786,1793),
+  ("Bernard",1340,2364),
+  ("Dennis",1720,1779),
+  ("Nyssa",2443,1685),
+  ("Lars",1574,1912),
+  ("Lillith",1584,1023),
+  ("Penelope",1613,1369);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hermione",1928,1738),
+  ("Lois",1034,2437),
+  ("Ivan",900,450),
+  ("Sade",2432,2240),
+  ("Bruno",1140,2397),
+  ("Lewis",747,387),
+  ("Patience",2903,468),
+  ("Dale",1094,2017),
+  ("Nero",1671,629),
+  ("Troy",2739,325);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Edan",2399,529),
+  ("Wendy",1877,1939),
+  ("Justine",2815,1498),
+  ("Jocelyn",2180,711),
+  ("Galena",1021,2385),
+  ("Nicholas",376,1126),
+  ("Tamara",1119,1394),
+  ("Kyra",568,291),
+  ("Ignatius",2020,1117),
+  ("Callum",479,270);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Moses",390,1720),
+  ("Elliott",2775,258),
+  ("Kyra",834,79),
+  ("Dorian",675,1799),
+  ("Chester",2580,1918),
+  ("Veronica",2713,1669),
+  ("Marah",271,1652),
+  ("Roth",921,2414),
+  ("Farrah",1761,2321),
+  ("Jasper",2579,1253);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Justin",2051,1273),
+  ("Tanisha",1893,960),
+  ("Hector",426,1118),
+  ("Oscar",715,478),
+  ("Nero",2963,374),
+  ("Cameran",710,778),
+  ("Justin",2796,1413),
+  ("Lamar",2858,1560),
+  ("Halla",2546,546),
+  ("Eugenia",2053,256);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nehru",2552,2420),
+  ("Ariel",389,1747),
+  ("Velma",2971,645),
+  ("Elizabeth",826,206),
+  ("Alisa",842,1373),
+  ("Tiger",284,378),
+  ("Cooper",2408,127),
+  ("Maia",1867,2319),
+  ("Lance",196,770),
+  ("MacKenzie",2400,171);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kieran",1993,1926),
+  ("Rana",854,516),
+  ("Kenyon",98,29),
+  ("Herrod",613,1223),
+  ("Natalie",1122,930),
+  ("Mia",1928,1905),
+  ("Leonard",328,777),
+  ("Hedy",452,63),
+  ("Noah",2745,1849),
+  ("Bertha",2957,363);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Timothy",1612,1309),
+  ("Noelani",2347,748),
+  ("Meghan",892,513),
+  ("Amethyst",1304,868),
+  ("Ezekiel",277,1111),
+  ("Celeste",103,862),
+  ("Raja",615,905),
+  ("Eve",1425,1465),
+  ("Alfonso",2527,1596),
+  ("Arden",104,976);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kalia",1471,2453),
+  ("Graham",487,1309),
+  ("Gannon",550,8),
+  ("Trevor",1824,339),
+  ("Louis",2895,1537),
+  ("Elton",912,1586),
+  ("Ebony",2973,1631),
+  ("Kennan",1533,560),
+  ("Judith",1983,2174),
+  ("Selma",1510,372);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ignacia",1261,230),
+  ("Samantha",253,1171),
+  ("Rudyard",364,1682),
+  ("Zephania",1186,467),
+  ("Alexis",878,1131),
+  ("Noble",496,1321),
+  ("Stephen",495,2448),
+  ("Gregory",750,926),
+  ("Ciara",2648,455),
+  ("Lacy",674,653);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Stephen",2356,2380),
+  ("Jeremy",952,1048),
+  ("Erich",472,2404),
+  ("Nell",590,1158),
+  ("Christian",2547,117),
+  ("Carl",1839,2434),
+  ("Hakeem",2642,2124),
+  ("Beverly",1530,2286),
+  ("Ian",1161,259),
+  ("Tanisha",2381,1418);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Igor",1480,1838),
+  ("Jaden",870,2125),
+  ("Chase",1757,2488),
+  ("Malcolm",1693,1528),
+  ("Lana",2932,708),
+  ("Peter",1712,1232),
+  ("Skyler",2622,1610),
+  ("Victoria",722,450),
+  ("Neve",2624,1491),
+  ("Graiden",257,1036);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alice",646,1614),
+  ("Dominique",420,2368),
+  ("Ethan",1428,2342),
+  ("Ima",508,505),
+  ("Kennedy",196,2431),
+  ("Rhoda",1050,627),
+  ("Ava",1165,699),
+  ("Tara",2789,199),
+  ("Ulla",122,217),
+  ("Regan",2528,2201);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ursa",822,1775),
+  ("Geraldine",2896,710),
+  ("Lara",31,2288),
+  ("Sylvester",2562,1653),
+  ("Violet",2610,2295),
+  ("Evangeline",2720,11),
+  ("Leila",2137,2124),
+  ("Harding",1768,23),
+  ("Wyoming",1479,2249),
+  ("Patricia",148,232);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kibo",861,997),
+  ("Kibo",814,1399),
+  ("Josiah",1375,2304),
+  ("Helen",715,1374),
+  ("Wade",2753,1267),
+  ("Cooper",1476,243),
+  ("Keegan",1219,1976),
+  ("Gil",1315,854),
+  ("Fredericka",2531,1347),
+  ("Vaughan",1948,1168);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Demetrius",536,181),
+  ("Elliott",95,862),
+  ("Melanie",2587,402),
+  ("Chaney",1498,804),
+  ("Noah",1155,1795),
+  ("Ayanna",1120,1279),
+  ("Naomi",1123,55),
+  ("Brandon",430,904),
+  ("Dai",2565,1239),
+  ("Davis",2995,1587);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Orson",1241,2213),
+  ("Larissa",2995,265),
+  ("Benjamin",2511,680),
+  ("Haley",1908,1982),
+  ("Len",306,227),
+  ("Vaughan",1671,2127),
+  ("Deacon",1690,2433),
+  ("Xena",936,1991),
+  ("Kim",2026,1390),
+  ("Steel",776,517);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ginger",2343,2130),
+  ("Kellie",2703,1689),
+  ("Elizabeth",795,502),
+  ("Dalton",124,981),
+  ("Tatum",2114,1827),
+  ("Melinda",421,691),
+  ("Alfonso",628,2431),
+  ("Caesar",1947,523),
+  ("Jennifer",198,782),
+  ("Inga",613,609);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ivan",1556,322),
+  ("Xander",2636,821),
+  ("Cedric",1423,2069),
+  ("Jacqueline",2385,2095),
+  ("Bo",630,1339),
+  ("Portia",1868,902),
+  ("Frances",2997,992),
+  ("Maxwell",1396,1421),
+  ("Ariana",997,1702),
+  ("Jolene",1306,850);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tasha",829,29),
+  ("Maite",2215,2367),
+  ("Yael",230,414),
+  ("Adele",448,2193),
+  ("Oren",1705,253),
+  ("Chadwick",934,1288),
+  ("Xyla",2331,551),
+  ("Garrett",2352,839),
+  ("Mari",704,994),
+  ("Zeus",1079,1306);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Violet",1394,2145),
+  ("Faith",646,1044),
+  ("Tanya",646,438),
+  ("Shoshana",2531,278),
+  ("Seth",1621,528),
+  ("Stephen",697,1077),
+  ("Helen",2495,909),
+  ("Germane",243,1295),
+  ("Mufutau",2827,1865),
+  ("Cameron",2263,789);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Katelyn",2367,285),
+  ("Willow",812,1598),
+  ("Arthur",1559,1362),
+  ("Brenden",995,807),
+  ("Carter",1747,32),
+  ("Remedios",122,1811),
+  ("Jillian",479,348),
+  ("Driscoll",324,903),
+  ("Regina",1936,2325),
+  ("Ronan",1697,270);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wyatt",379,2112),
+  ("Avye",224,1863),
+  ("Britanni",962,765),
+  ("Lars",63,2314),
+  ("Len",2144,2264),
+  ("Lester",1491,106),
+  ("Amir",2177,2183),
+  ("Rigel",2661,902),
+  ("Howard",1460,2452),
+  ("Lucas",1609,1427);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hiram",775,1370),
+  ("Marsden",2561,2112),
+  ("Donna",377,133),
+  ("Andrew",1624,2464),
+  ("Sade",986,1567),
+  ("Alan",2278,2203),
+  ("Winifred",93,1938),
+  ("Moana",2130,2382),
+  ("Colette",4,1173),
+  ("Ross",469,893);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eagan",294,1770),
+  ("Aladdin",102,836),
+  ("Yasir",2858,428),
+  ("Yoshio",166,1514),
+  ("Dana",1587,1752),
+  ("Joshua",750,977),
+  ("Abdul",1455,2274),
+  ("Preston",793,2141),
+  ("Alana",2663,555),
+  ("Wang",2452,712);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Meredith",2175,733),
+  ("Brynn",1661,812),
+  ("Amber",33,151),
+  ("Hasad",535,866),
+  ("Aaron",406,1971),
+  ("Demetrius",1771,1790),
+  ("Malachi",2239,1680),
+  ("James",2360,478),
+  ("Lesley",2359,1110),
+  ("Frances",2068,501);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Evelyn",2049,1481),
+  ("Drake",1031,1785),
+  ("Odysseus",1997,1552),
+  ("Hammett",1798,672),
+  ("Cameran",2185,1905),
+  ("Aretha",517,1970),
+  ("Hedwig",1817,2165),
+  ("Ross",2717,1073),
+  ("MacKensie",1570,3),
+  ("Cadman",453,460);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Nina",628,1009),
+  ("Jescie",2923,2491),
+  ("Tatyana",1012,1444),
+  ("Dahlia",1132,1851),
+  ("Daphne",2130,506),
+  ("Keith",258,1974),
+  ("Keaton",1186,856),
+  ("Jocelyn",1666,626),
+  ("Nelle",2510,2037),
+  ("Laura",2211,771);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Brianna",2291,1116),
+  ("Lenore",138,713),
+  ("Salvador",2628,183),
+  ("Clinton",339,1456),
+  ("Gray",322,1556),
+  ("Kerry",2468,1937),
+  ("Leonard",4,598),
+  ("Breanna",148,588),
+  ("Paki",1628,1856),
+  ("Malcolm",2200,858);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Len",264,925),
+  ("Jin",2204,455),
+  ("Skyler",2949,2301),
+  ("Gwendolyn",18,138),
+  ("Leonard",1426,295),
+  ("Frances",467,1050),
+  ("Moses",2316,1366),
+  ("Hanae",2484,202),
+  ("Vance",2227,954),
+  ("Dara",1639,2352);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Raja",2312,1173),
+  ("Zephania",752,1080),
+  ("Jerry",2182,530),
+  ("Guy",2271,1553),
+  ("Maryam",2524,2176),
+  ("Kylynn",2217,57),
+  ("Dean",432,663),
+  ("Macon",1969,2471),
+  ("Tatiana",1333,1448),
+  ("Ashton",253,1423);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ayanna",657,295),
+  ("Kalia",2223,215),
+  ("James",893,434),
+  ("Isabelle",2211,230),
+  ("Wynter",1464,14),
+  ("MacKenzie",1730,1629),
+  ("Brent",2627,1160),
+  ("Brennan",2923,2047),
+  ("Lani",1327,2274),
+  ("Ross",1630,1361);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cora",2647,1893),
+  ("Neville",2340,1542),
+  ("Breanna",1905,463),
+  ("Remedios",2729,393),
+  ("Xenos",1325,187),
+  ("Laith",1720,2090),
+  ("Blythe",1268,2169),
+  ("Alec",1158,803),
+  ("Walter",1059,1416),
+  ("Kennan",1352,1023);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chaim",2869,2241),
+  ("Yoko",485,207),
+  ("Yuri",1042,1216),
+  ("Christen",176,2315),
+  ("Orla",1273,1496),
+  ("Kirby",1170,861),
+  ("Samuel",1292,1177),
+  ("Adena",2533,1733),
+  ("Kermit",1583,1258),
+  ("Candace",717,1907);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Madaline",1829,2342),
+  ("Bree",2255,22),
+  ("Jescie",1130,636),
+  ("Shannon",529,314),
+  ("Heather",2010,1091),
+  ("Kathleen",1979,342),
+  ("Thane",2514,582),
+  ("Allen",1834,1031),
+  ("Edward",188,2004),
+  ("Solomon",683,579);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Yetta",163,2125),
+  ("Hadley",697,1981),
+  ("Cade",1547,991),
+  ("Remedios",755,1662),
+  ("Prescott",1148,2234),
+  ("Benedict",2392,605),
+  ("Brenden",750,2230),
+  ("Frances",548,867),
+  ("Clementine",2874,1551),
+  ("Kyle",696,1179);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chanda",1152,587),
+  ("Halee",1623,938),
+  ("Carly",2946,2311),
+  ("Madeline",1522,38),
+  ("Holly",2811,1518),
+  ("Mary",580,2095),
+  ("Ryder",1478,1990),
+  ("Hedley",656,1084),
+  ("Burke",2595,112),
+  ("Blossom",2030,94);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Myles",294,2258),
+  ("Derek",1018,739),
+  ("Alden",2305,1207),
+  ("Mark",816,374),
+  ("Grace",1408,1167),
+  ("Darius",2513,260),
+  ("Dustin",2250,149),
+  ("August",2048,766),
+  ("Guy",2579,1913),
+  ("Henry",2911,795);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Desiree",1503,1892),
+  ("Veda",727,1897),
+  ("Gareth",1443,1224),
+  ("Mari",2694,105),
+  ("Xena",2437,1132),
+  ("Rhona",2702,524),
+  ("Roanna",439,2480),
+  ("Erich",426,1475),
+  ("Kelly",1727,1830),
+  ("Lucas",2207,639);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Giselle",1767,641),
+  ("Myles",1848,210),
+  ("Ray",1758,1017),
+  ("Xandra",670,652),
+  ("Tad",2974,1157),
+  ("Barclay",2045,1759),
+  ("Jennifer",582,631),
+  ("Ezekiel",1088,1927),
+  ("Josiah",2588,928),
+  ("Heidi",62,694);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gannon",902,344),
+  ("Amal",2510,1370),
+  ("Rina",36,1134),
+  ("Xaviera",2828,1946),
+  ("Palmer",1304,1128),
+  ("Remedios",249,1564),
+  ("Rigel",962,2339),
+  ("Rogan",2491,2355),
+  ("Noah",1329,793),
+  ("Frances",1714,1056);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Byron",2318,459),
+  ("Ursa",1341,2427),
+  ("Aladdin",641,585),
+  ("Otto",2316,1696),
+  ("Kellie",387,1235),
+  ("Charles",2747,817),
+  ("Adam",1889,2481),
+  ("Zelda",1976,1829),
+  ("Yuri",1178,1011),
+  ("Kylynn",1716,2464);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gregory",88,747),
+  ("Melinda",1272,559),
+  ("Karly",1244,1140),
+  ("Emerald",709,80),
+  ("Cole",1918,2388),
+  ("Alfreda",354,2220),
+  ("Jordan",723,85),
+  ("Brooke",587,828),
+  ("Deirdre",2661,1530),
+  ("Summer",1130,395);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lillian",220,191),
+  ("Isabelle",342,1630),
+  ("Gage",940,610),
+  ("Brynn",598,1749),
+  ("Yoshi",224,666),
+  ("Kalia",2906,1753),
+  ("Hector",2300,2491),
+  ("Xenos",247,1883),
+  ("Drew",467,1358),
+  ("Jessamine",1788,1832);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alexis",1256,1537),
+  ("Andrew",2997,1494),
+  ("Ferris",550,1287),
+  ("Bradley",1721,999),
+  ("Nita",2975,844),
+  ("Beck",109,23),
+  ("Xander",1306,163),
+  ("Mannix",1657,1975),
+  ("Ira",285,1237),
+  ("Montana",1779,2464);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Martha",1788,954),
+  ("Wilma",2106,1942),
+  ("Ramona",1346,1652),
+  ("Kane",1282,2310),
+  ("Isadora",204,237),
+  ("Jamal",2680,2263),
+  ("Sydney",906,2313),
+  ("Kennan",1923,1780),
+  ("Aileen",200,1041),
+  ("Gisela",1256,2367);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gemma",72,271),
+  ("Astra",1349,1846),
+  ("Cameron",1764,1238),
+  ("Emily",2377,773),
+  ("Libby",1628,2008),
+  ("Peter",2732,241),
+  ("Kennedy",293,2422),
+  ("Justin",1925,1467),
+  ("Orli",2447,1536),
+  ("Jane",1886,1454);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ivory",2303,272),
+  ("Cora",712,2202),
+  ("Howard",2667,1644),
+  ("Stephanie",738,2145),
+  ("Kiona",170,632),
+  ("Drew",433,2279),
+  ("Aquila",1993,597),
+  ("Evan",2735,1504),
+  ("Ashely",331,112),
+  ("Aphrodite",666,2);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elmo",267,1084),
+  ("Melvin",911,1082),
+  ("Dustin",1112,1039),
+  ("Finn",62,1294),
+  ("Chaim",1016,675),
+  ("Pascale",508,1607),
+  ("Murphy",573,514),
+  ("Willa",1700,1572),
+  ("Hashim",1788,1309),
+  ("Yoshio",2878,1854);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Caldwell",1507,664),
+  ("Jacqueline",2301,2252),
+  ("Dante",2453,520),
+  ("Madeline",290,2290),
+  ("Perry",2227,636),
+  ("Nell",336,2214),
+  ("Cairo",1827,2250),
+  ("Ariana",2992,1122),
+  ("Porter",1230,1703),
+  ("Vernon",1826,2303);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Burton",1778,648),
+  ("Cassidy",2340,1998),
+  ("Felix",1009,383),
+  ("Cade",680,2027),
+  ("Ivana",1066,347),
+  ("Ciaran",1079,2138),
+  ("Sage",727,1560),
+  ("Emi",893,72),
+  ("Tiger",487,1467),
+  ("Camden",606,2253);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shea",124,1682),
+  ("Demetrius",2664,399),
+  ("Amos",1288,1251),
+  ("Colleen",2134,1239),
+  ("Kevin",1959,489),
+  ("Leandra",380,1960),
+  ("Gabriel",2096,1999),
+  ("Clayton",1965,2384),
+  ("Kieran",639,1006),
+  ("Allegra",1680,1328);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Bevis",1568,993),
+  ("Keegan",2014,2405),
+  ("Breanna",2552,815),
+  ("Clark",171,726),
+  ("Drake",1233,1215),
+  ("Elvis",469,624),
+  ("Nathaniel",2105,511),
+  ("Benjamin",1576,1781),
+  ("Shaine",1196,919),
+  ("Shea",403,1891);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kalia",1338,1987),
+  ("Scott",2753,2250),
+  ("Hollee",2535,1955),
+  ("Grant",2435,951),
+  ("Rajah",154,1590),
+  ("Quail",726,2311),
+  ("Branden",1171,1074),
+  ("Giacomo",474,2416),
+  ("Imelda",667,753),
+  ("Moana",451,1660);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sierra",2141,1240),
+  ("Ferdinand",1211,336),
+  ("Xanthus",500,1494),
+  ("Porter",1476,1786),
+  ("Malik",338,262),
+  ("Mary",2960,1370),
+  ("Martena",1666,2284),
+  ("Russell",1621,464),
+  ("Hillary",1582,1345),
+  ("Leila",1087,1766);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hyatt",2424,247),
+  ("Julian",286,831),
+  ("Ferris",1304,1709),
+  ("Malik",2770,1693),
+  ("Rama",1934,2168),
+  ("Jayme",1986,1303),
+  ("Pearl",96,100),
+  ("Arthur",1291,999),
+  ("Charles",2577,1679),
+  ("Griffin",1299,1834);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chantale",2935,2117),
+  ("Daquan",1139,2194),
+  ("Ulysses",1652,2287),
+  ("Ferdinand",325,1810),
+  ("Quail",885,1562),
+  ("Jonah",1887,2149),
+  ("Penelope",1484,2133),
+  ("Thomas",1426,2085),
+  ("Fuller",1053,747),
+  ("Serina",713,355);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Beau",2739,1021),
+  ("Sean",2745,1501),
+  ("Diana",8,133),
+  ("Adrienne",341,2146),
+  ("Lareina",385,1432),
+  ("Adele",1750,798),
+  ("Hop",223,1326),
+  ("Justine",1027,317),
+  ("Chancellor",1233,899),
+  ("Isabella",183,1403);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dacey",2715,625),
+  ("Tiger",1269,1968),
+  ("Penelope",211,1376),
+  ("Jerry",959,214),
+  ("Sade",1181,1694),
+  ("Camille",1465,2322),
+  ("Zia",92,751),
+  ("Quyn",349,1755),
+  ("Kirestin",316,1912),
+  ("Zahir",640,23);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cain",2413,1508),
+  ("Nissim",2202,160),
+  ("Medge",1491,706),
+  ("Kasimir",1767,2316),
+  ("Steel",1322,1480),
+  ("Ora",1200,1359),
+  ("Oprah",2990,729),
+  ("Alice",914,882),
+  ("Myra",479,1632),
+  ("Eugenia",1376,1414);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ethan",602,414),
+  ("Griffith",2859,29),
+  ("Shay",111,1032),
+  ("Walker",2567,2018),
+  ("Geraldine",2656,1904),
+  ("Grady",2011,273),
+  ("Igor",2150,1591),
+  ("Debra",923,1869),
+  ("Yael",1123,813),
+  ("Keefe",1777,648);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eaton",2534,1907),
+  ("Felicia",652,1990),
+  ("Fletcher",2517,1481),
+  ("Alan",1933,1115),
+  ("Burke",2702,1495),
+  ("Elmo",1965,2467),
+  ("Roanna",1251,1605),
+  ("Sopoline",803,311),
+  ("Pamela",1149,1720),
+  ("Kelly",1118,2468);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Timothy",1021,184),
+  ("Gavin",1350,556),
+  ("Karen",978,2144),
+  ("Shafira",1952,500),
+  ("Berk",1413,637),
+  ("Courtney",685,155),
+  ("Miranda",655,547),
+  ("Laith",2570,1722),
+  ("Ira",1217,915),
+  ("Joseph",1143,2112);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Laura",199,223),
+  ("April",2420,2085),
+  ("Keegan",1650,849),
+  ("Deacon",149,1361),
+  ("Sierra",551,136),
+  ("Richard",2308,307),
+  ("Aaron",540,2435),
+  ("Tate",1962,183),
+  ("Calvin",1996,2436),
+  ("Rajah",1158,1103);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Burke",2410,985),
+  ("Cleo",277,1398),
+  ("Colt",33,842),
+  ("Stephen",2812,1037),
+  ("Thomas",1883,1790),
+  ("Yael",1185,959),
+  ("Zane",901,2041),
+  ("Knox",70,787),
+  ("Colleen",216,2443),
+  ("Sasha",2949,1903);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Britanni",1985,696),
+  ("Walter",148,1358),
+  ("Denise",2664,1427),
+  ("Lars",1024,877),
+  ("Marah",850,1602),
+  ("Walker",2753,862),
+  ("Jana",1948,817),
+  ("Galena",594,1278),
+  ("Hector",1732,1013),
+  ("Grady",2617,1800);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Myra",2106,1139),
+  ("Abdul",2980,2234),
+  ("Lael",2160,1829),
+  ("Xenos",2032,2055),
+  ("Shay",323,1721),
+  ("Robert",2577,1872),
+  ("Miranda",919,936),
+  ("Solomon",1298,977),
+  ("Herman",1299,2080),
+  ("Anthony",2328,1076);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Aristotle",2183,2415),
+  ("Brynne",1549,1219),
+  ("Keaton",2504,1858),
+  ("Adrienne",1989,1884),
+  ("Samson",1297,2473),
+  ("Brennan",907,395),
+  ("Macaulay",64,262),
+  ("Thomas",2486,220),
+  ("Kermit",1089,889),
+  ("Audra",1673,1676);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Zeph",2770,663),
+  ("Mikayla",951,595),
+  ("Kamal",1935,801),
+  ("Sade",1933,226),
+  ("August",1745,1147),
+  ("Talon",2685,1994),
+  ("Ferris",430,1681),
+  ("Berk",412,778),
+  ("Cheryl",1827,2364),
+  ("Cameran",2123,638);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Shaeleigh",2211,2245),
+  ("Cally",2481,1583),
+  ("Fitzgerald",1354,1159),
+  ("Hu",1717,44),
+  ("Mercedes",2280,747),
+  ("Rhiannon",2298,929),
+  ("Xyla",1675,227),
+  ("Kameko",2041,1895),
+  ("Aphrodite",2690,91),
+  ("Vielka",457,1580);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jaden",2256,723),
+  ("Naomi",2348,701),
+  ("Raya",2083,1480),
+  ("Lydia",1624,987),
+  ("Rhonda",646,804),
+  ("Rae",2017,333),
+  ("Blythe",764,863),
+  ("Ruby",1177,1184),
+  ("Yvette",1583,712),
+  ("Isaac",1087,2249);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Stuart",2181,400),
+  ("Stephanie",841,436),
+  ("Aiko",942,1979),
+  ("Dana",1444,939),
+  ("Kylee",1716,2410),
+  ("Evan",1060,800),
+  ("Libby",2568,2307),
+  ("Isabella",1667,1391),
+  ("Kirsten",2666,662),
+  ("Ivan",2254,1816);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Debra",1987,2122),
+  ("Velma",1859,1316),
+  ("Ima",1717,1850),
+  ("Sybil",138,1431),
+  ("Amethyst",585,2370),
+  ("Walter",1151,900),
+  ("Lamar",1363,2232),
+  ("Axel",2218,2059),
+  ("Derek",2809,598),
+  ("Jarrod",559,1844);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Gabriel",323,654),
+  ("Hilel",2467,697),
+  ("Nora",775,1915),
+  ("Preston",891,374),
+  ("Mufutau",1477,343),
+  ("Kamal",2316,740),
+  ("Velma",837,127),
+  ("Caleb",764,1635),
+  ("Amos",1069,1388),
+  ("Adam",189,2056);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jermaine",1944,1858),
+  ("Keely",1981,2241),
+  ("Lynn",72,1354),
+  ("Quin",208,334),
+  ("Oleg",849,2291),
+  ("Jillian",2923,1552),
+  ("Hedda",2983,1690),
+  ("Akeem",434,1190),
+  ("Sean",473,1151),
+  ("Cole",652,192);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Adele",446,2136),
+  ("Rooney",2925,347),
+  ("Slade",1753,1302),
+  ("Odette",1072,1247),
+  ("Ursula",1543,2143),
+  ("Ashton",1932,1807),
+  ("Sylvia",2127,387),
+  ("Kelly",680,1370),
+  ("Reece",1300,1098),
+  ("Maile",314,1329);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lani",2117,2434),
+  ("Xanthus",2078,142),
+  ("Jermaine",1102,926),
+  ("Chastity",2593,316),
+  ("Erich",2034,15),
+  ("Haley",1452,856),
+  ("Aimee",2577,1857),
+  ("Michael",2788,342),
+  ("Jermaine",2945,875),
+  ("Wallace",752,1973);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ahmed",2608,1312),
+  ("Quyn",2927,107),
+  ("Stephanie",1584,2155),
+  ("Chadwick",179,2497),
+  ("Timon",1259,2194),
+  ("Price",2366,1183),
+  ("Deirdre",1182,1332),
+  ("Matthew",319,327),
+  ("Jeanette",2221,1391),
+  ("Plato",1564,2236);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kasimir",2155,2121),
+  ("Erin",2281,2373),
+  ("Juliet",1505,921),
+  ("Xanthus",1602,2361),
+  ("Celeste",1234,541),
+  ("Philip",2951,1777),
+  ("Amir",2887,70),
+  ("Isadora",2062,1780),
+  ("Beverly",2331,1361),
+  ("Leroy",2399,522);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Kylan",817,1002),
+  ("Erich",2794,1567),
+  ("Simone",1015,746),
+  ("Jakeem",237,692),
+  ("Herman",2738,2167),
+  ("Tate",2377,1549),
+  ("Illana",2087,460),
+  ("Deacon",2627,357),
+  ("Wyatt",2684,1447),
+  ("Richard",1593,858);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Murphy",2267,593),
+  ("Rina",376,1444),
+  ("Perry",2859,14),
+  ("Libby",2183,200),
+  ("Bert",1413,270),
+  ("Regan",568,2232),
+  ("Nathan",1535,2132),
+  ("Brielle",577,1227),
+  ("Bevis",1764,1530),
+  ("Tanisha",1651,555);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Candace",471,2315),
+  ("Jamal",2202,1689),
+  ("Jaden",166,1408),
+  ("Gail",4,2335),
+  ("Boris",1660,2388),
+  ("Rudyard",2359,1879),
+  ("Daquan",920,1544),
+  ("Fredericka",2108,1687),
+  ("Ashton",2295,1391),
+  ("Ulysses",2787,2463);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Charissa",1937,1547),
+  ("Rhona",2394,1870),
+  ("Jonas",1935,646),
+  ("Walter",395,1528),
+  ("Lyle",2481,1082),
+  ("Travis",1108,2411),
+  ("Clio",2712,828),
+  ("Emerson",2729,1850),
+  ("Odessa",1945,599),
+  ("Haley",2999,510);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Remedios",1430,1884),
+  ("Brent",940,1868),
+  ("Mikayla",1076,1528),
+  ("Bruce",461,903),
+  ("Lesley",2855,667),
+  ("Cathleen",2801,547),
+  ("Cailin",2944,1867),
+  ("Ulla",1542,1888),
+  ("Yoshi",1763,1323),
+  ("Abdul",2970,1206);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Abbot",320,1252),
+  ("Amela",1688,2036),
+  ("Jemima",517,994),
+  ("Aline",2888,227),
+  ("Jin",955,1924),
+  ("Reed",978,2189),
+  ("Orla",1433,230),
+  ("Joan",2594,887),
+  ("Cullen",655,2315),
+  ("Price",1894,2241);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Knox",125,2495),
+  ("Kenyon",2357,596),
+  ("Imani",2036,643),
+  ("David",193,1353),
+  ("Asher",315,619),
+  ("Russell",1137,1864),
+  ("Kermit",508,2467),
+  ("Dale",779,291),
+  ("Acton",2711,1541),
+  ("Griffin",2068,1131);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hop",1659,1057),
+  ("Julian",1207,573),
+  ("Amaya",2978,2090),
+  ("Grant",2225,1978),
+  ("Castor",127,726),
+  ("Jorden",2133,558),
+  ("Anthony",2998,1541),
+  ("Nigel",875,1266),
+  ("Myra",1278,609),
+  ("Alec",2574,1647);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chiquita",436,769),
+  ("Quinn",2428,1892),
+  ("Illiana",2220,2288),
+  ("Zachery",1226,374),
+  ("Cally",2109,1944),
+  ("Chase",1279,846),
+  ("Walter",2646,713),
+  ("Shaine",1560,1182),
+  ("Leo",230,1047),
+  ("Daryl",460,2423);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Drake",862,2278),
+  ("Hedda",21,975),
+  ("Hilda",2744,138),
+  ("Xander",2489,1114),
+  ("Hanae",2479,1906),
+  ("Zane",1505,1719),
+  ("Tashya",555,656),
+  ("Teagan",1369,1234),
+  ("Basil",1454,2112),
+  ("Neve",1485,216);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dara",2587,836),
+  ("Imani",2895,1833),
+  ("Harper",546,1363),
+  ("Sandra",2036,550),
+  ("Amaya",1076,680),
+  ("Alexis",1843,2442),
+  ("Melvin",273,1788),
+  ("Quamar",2794,2459),
+  ("Ina",1910,46),
+  ("Dai",1451,1295);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ivor",2505,1737),
+  ("Anastasia",1226,2379),
+  ("Reuben",1945,1830),
+  ("Glenna",165,353),
+  ("Tatyana",1583,1151),
+  ("Dolan",1272,344),
+  ("Meredith",2650,1285),
+  ("Iola",1147,289),
+  ("Jillian",2640,1613),
+  ("Jolene",774,1431);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Graiden",1500,2112),
+  ("Jerry",2348,1235),
+  ("Brennan",2743,1326),
+  ("Bo",2961,116),
+  ("Carly",2218,26),
+  ("Sopoline",2206,1119),
+  ("Eaton",1012,2251),
+  ("Macy",2364,1470),
+  ("Cullen",762,2214),
+  ("Graiden",2853,1275);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Alyssa",665,590),
+  ("Lucian",645,395),
+  ("Hayden",1208,2195),
+  ("Bert",1837,2475),
+  ("Daryl",2958,1082),
+  ("Brielle",866,2228),
+  ("Nathan",573,294),
+  ("Cynthia",2614,770),
+  ("Britanney",2834,1388),
+  ("Brenda",2202,1237);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dominic",2158,1312),
+  ("Asher",474,740),
+  ("Nell",106,1849),
+  ("Hall",660,1029),
+  ("Deanna",796,2304),
+  ("Troy",624,2044),
+  ("Kane",2760,283),
+  ("Lillith",122,384),
+  ("Genevieve",662,1176),
+  ("Halee",204,2291);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Abdul",306,2341),
+  ("Montana",394,1707),
+  ("Wing",240,2307),
+  ("Kasimir",777,1585),
+  ("Inga",817,1835),
+  ("Clayton",2435,1811),
+  ("Moana",1268,1422),
+  ("Chanda",866,897),
+  ("Kristen",1213,1301),
+  ("Avye",208,2459);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Vernon",2847,874),
+  ("Briar",2968,1901),
+  ("Montana",2354,656),
+  ("Lee",799,1388),
+  ("Irene",78,1309),
+  ("Charles",484,189),
+  ("Moses",124,2251),
+  ("Quail",2735,1983),
+  ("Kitra",730,972),
+  ("Kiayada",276,176);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hillary",945,1219),
+  ("Anthony",268,1388),
+  ("Allistair",252,2276),
+  ("Wylie",1266,625),
+  ("Kristen",631,2435),
+  ("Serena",2274,1499),
+  ("Tiger",1461,1865),
+  ("Sacha",834,154),
+  ("Phillip",2653,2200),
+  ("Hannah",864,96);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Salvador",507,943),
+  ("Mufutau",2246,1391),
+  ("Alma",2763,1013),
+  ("Ursa",2436,1263),
+  ("Amber",1474,1383),
+  ("Kamal",2797,1342),
+  ("Chiquita",1246,1699),
+  ("Keegan",2770,2329),
+  ("Owen",2600,1457),
+  ("Cally",670,2205);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ali",302,1395),
+  ("Riley",2812,1858),
+  ("Yuli",3,1735),
+  ("Linus",1120,1514),
+  ("Sydney",1613,645),
+  ("Xavier",2939,1974),
+  ("Marah",2457,1513),
+  ("Nash",2173,1748),
+  ("Alexa",2878,293),
+  ("Lamar",49,1660);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Lev",1914,2142),
+  ("Louis",1677,839),
+  ("Jamal",784,1158),
+  ("Vernon",1832,2215),
+  ("Kylee",2675,672),
+  ("Heidi",2283,1606),
+  ("Henry",2108,2374),
+  ("Unity",1708,763),
+  ("Benjamin",1136,915),
+  ("Myles",2107,961);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Fleur",2617,168),
+  ("Amanda",541,68),
+  ("Aline",2904,2458),
+  ("Aspen",1457,636),
+  ("Madeline",1727,1090),
+  ("Sydney",193,108),
+  ("Halee",671,1252),
+  ("Daniel",2600,959),
+  ("Arsenio",1532,1695),
+  ("Alvin",1296,122);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Maggy",1940,1425),
+  ("Karyn",605,1152),
+  ("Orson",580,1208),
+  ("Mallory",2872,647),
+  ("Eliana",2003,1845),
+  ("Hector",374,531),
+  ("Talon",2525,273),
+  ("Deacon",2058,433),
+  ("Edward",1706,2032),
+  ("Christen",696,1406);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hermione",2096,1916),
+  ("Joshua",2470,846),
+  ("Quentin",1617,1576),
+  ("Adele",2304,854),
+  ("Gemma",1355,739),
+  ("Bruno",2310,1981),
+  ("Lenore",1698,1757),
+  ("Charles",2822,2420),
+  ("Phelan",144,719),
+  ("Jane",2486,262);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cherokee",2928,188),
+  ("Francis",1084,118),
+  ("Kenneth",91,1906),
+  ("Kieran",672,1377),
+  ("Colton",2481,2020),
+  ("Brenden",908,1503),
+  ("Acton",224,1062),
+  ("Jonas",570,1886),
+  ("Francis",1065,312),
+  ("Veda",1214,1161);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Zane",172,2488),
+  ("Marcia",1975,639),
+  ("Adena",788,1595),
+  ("Adam",2361,2074),
+  ("Leonard",1996,573),
+  ("Robert",1936,1437),
+  ("Giacomo",130,497),
+  ("Montana",2455,2259),
+  ("Colleen",2656,824),
+  ("Hilel",1673,1632);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jarrod",2375,935),
+  ("Xandra",2109,1854),
+  ("William",2038,1903),
+  ("Kane",1978,1347),
+  ("Aimee",2004,372),
+  ("Rhona",2534,674),
+  ("Harriet",55,1505),
+  ("Hayes",2331,1621),
+  ("Denton",1074,1737),
+  ("Drew",1864,388);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Camilla",2151,2146),
+  ("Alexis",1980,1058),
+  ("Kiayada",312,356),
+  ("Amanda",1107,250),
+  ("Eaton",471,535),
+  ("Gray",2492,84),
+  ("Amber",5,1552),
+  ("Wallace",2750,553),
+  ("Alana",507,1620),
+  ("Kristen",457,1936);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cameron",2980,1228),
+  ("Skyler",199,77),
+  ("Tanner",1236,1396),
+  ("Philip",2895,1868),
+  ("Thane",1359,801),
+  ("Eleanor",588,126),
+  ("Duncan",2525,1560),
+  ("Zephr",2581,1151),
+  ("Summer",2863,1501),
+  ("Patrick",390,1952);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Olga",2985,2124),
+  ("Christian",605,6),
+  ("Amos",472,194),
+  ("Acton",2039,638),
+  ("Piper",790,443),
+  ("Quinlan",2623,181),
+  ("Thaddeus",510,468),
+  ("Aretha",193,1878),
+  ("Talon",2878,1458),
+  ("Demetria",1480,2043);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dominique",887,2131),
+  ("Fleur",748,1199),
+  ("Quamar",732,2361),
+  ("Carter",1003,145),
+  ("Daryl",26,2481),
+  ("Forrest",512,141),
+  ("Lila",1133,21),
+  ("Wing",2703,1638),
+  ("Lisandra",1581,202),
+  ("Alexander",1036,1193);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Helen",512,1159),
+  ("Avram",1599,2085),
+  ("Claire",1046,1539),
+  ("Sasha",2745,2342),
+  ("Kennedy",771,2121),
+  ("Zachary",786,1886),
+  ("Clark",2723,723),
+  ("Hollee",441,424),
+  ("Linda",130,1975),
+  ("Ciaran",555,1047);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Portia",2415,1093),
+  ("Lee",2420,1211),
+  ("Ramona",110,260),
+  ("Kylie",1932,1806),
+  ("Stone",2815,881),
+  ("Gloria",2954,2321),
+  ("Gareth",1130,753),
+  ("Madeline",2276,1727),
+  ("Thor",546,326),
+  ("Ulla",1819,1776);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Baker",2940,2304),
+  ("Mollie",141,87),
+  ("Upton",2636,828),
+  ("Hiram",1550,2203),
+  ("Ivor",2875,1396),
+  ("Zelda",1004,2075),
+  ("Martin",1825,35),
+  ("Linus",762,1254),
+  ("Minerva",2905,1946),
+  ("Noelle",1311,1217);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ulysses",1105,2034),
+  ("Piper",1412,745),
+  ("Maia",365,1883),
+  ("Omar",1723,1999),
+  ("Justine",1922,1001),
+  ("Dean",2828,1341),
+  ("Jakeem",946,1300),
+  ("Uriel",1089,2366),
+  ("Lyle",830,2241),
+  ("Evelyn",601,200);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Otto",1918,1901),
+  ("Lara",2237,780),
+  ("Zoe",1861,1141),
+  ("Tyler",420,1316),
+  ("Noelle",2378,2280),
+  ("Kevin",2240,731),
+  ("John",1366,1495),
+  ("Denise",1117,1562),
+  ("Timothy",1200,2056),
+  ("Callie",1463,2109);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Abra",1633,1284),
+  ("Florence",80,897),
+  ("Lacey",1208,1133),
+  ("Neville",2167,1153),
+  ("Mannix",333,2491),
+  ("Britanney",1155,2134),
+  ("Fatima",1069,2482),
+  ("Melinda",2898,881),
+  ("Kasper",2608,1601),
+  ("Carter",1073,492);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Sacha",654,500),
+  ("Serina",1378,1131),
+  ("Cullen",1487,372),
+  ("Kristen",2163,1616),
+  ("Jakeem",2622,1365),
+  ("Graham",2144,987),
+  ("Nerea",1561,2090),
+  ("September",2903,825),
+  ("Pamela",846,182),
+  ("Tarik",334,2251);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Chiquita",2169,1727),
+  ("Uriel",718,1868),
+  ("Merritt",1271,1896),
+  ("Cathleen",1267,104),
+  ("Petra",1263,461),
+  ("Sade",1299,559),
+  ("Keaton",1650,1798),
+  ("Thaddeus",503,1387),
+  ("Iris",502,2038),
+  ("Tatiana",1565,1372);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Rigel",192,382),
+  ("Kelly",283,821),
+  ("Adria",2747,2050),
+  ("Hyatt",1894,1945),
+  ("Althea",1584,887),
+  ("Philip",995,999),
+  ("Marny",1257,2281),
+  ("Adara",246,1091),
+  ("Wyoming",2499,89),
+  ("Keegan",391,1589);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Patrick",2970,407),
+  ("Melissa",2335,1674),
+  ("Stacey",275,2190),
+  ("Scarlett",2807,784),
+  ("Hayden",2570,599),
+  ("Colton",263,182),
+  ("Alexander",2724,75),
+  ("Wayne",2296,1871),
+  ("Ian",412,1349),
+  ("Maxwell",2252,1227);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ivory",754,1320),
+  ("Justina",1301,1622),
+  ("Willow",2037,812),
+  ("Simone",362,658),
+  ("Malik",550,913),
+  ("Madeson",1813,139),
+  ("Geraldine",1307,1902),
+  ("Quamar",1322,2136),
+  ("Jessamine",2720,597),
+  ("Brynne",2934,784);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elaine",2879,1259),
+  ("Benedict",1561,570),
+  ("Amir",1424,1637),
+  ("Lareina",1119,998),
+  ("Abigail",2949,1347),
+  ("Kessie",2666,1433),
+  ("Hyatt",2656,1090),
+  ("Ian",1503,837),
+  ("Nelle",1064,2486),
+  ("Dylan",2280,1560);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Anika",1586,668),
+  ("Jakeem",829,457),
+  ("Neville",51,1981),
+  ("Yen",2436,1261),
+  ("Pandora",1573,2436),
+  ("Inez",234,1578),
+  ("Steel",2526,1089),
+  ("Dylan",762,1297),
+  ("Nigel",1230,2493),
+  ("Sara",709,1949);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Mohammad",2508,2005),
+  ("Stella",616,654),
+  ("Inez",2558,480),
+  ("Joshua",2879,1828),
+  ("Ian",195,2195),
+  ("Hayden",2547,769),
+  ("Jamal",1287,2347),
+  ("Amelia",2739,1835),
+  ("Michael",236,2016),
+  ("Kevin",2862,2038);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Venus",847,1818),
+  ("Riley",77,2481),
+  ("Charissa",9,2481),
+  ("Kay",840,864),
+  ("Lester",2119,2241),
+  ("Barbara",2495,2396),
+  ("Wyoming",288,1643),
+  ("Aimee",1521,1717),
+  ("Uriel",1057,308),
+  ("Herrod",2154,2156);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Astra",1159,1180),
+  ("Wesley",51,28),
+  ("Joseph",2790,757),
+  ("Bertha",803,374),
+  ("Laith",2672,2253),
+  ("Kibo",106,2139),
+  ("Dale",2092,1994),
+  ("Orli",1552,2232),
+  ("Kasper",2861,509),
+  ("Azalia",1931,1904);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Maile",2447,905),
+  ("Arsenio",777,925),
+  ("Lee",2518,39),
+  ("Tyler",1746,393),
+  ("David",2942,1090),
+  ("Lamar",737,104),
+  ("Cheyenne",1759,2193),
+  ("David",1361,1062),
+  ("Gabriel",1137,2185),
+  ("Melodie",611,2167);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eric",2298,845),
+  ("Callie",1379,198),
+  ("Margaret",2437,2113),
+  ("Jerome",2082,1782),
+  ("Uta",1814,784),
+  ("Dora",87,49),
+  ("Lester",1579,1915),
+  ("Xaviera",2678,662),
+  ("Ethan",2404,538),
+  ("Cadman",2773,1479);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Cheryl",1723,1289),
+  ("Ashely",1377,1815),
+  ("Isaiah",1011,2250),
+  ("Kermit",1871,1023),
+  ("Hoyt",1573,585),
+  ("Octavius",674,2196),
+  ("Melissa",2413,2309),
+  ("Amir",575,2249),
+  ("Genevieve",1154,315),
+  ("Charles",1568,1049);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Eric",138,2143),
+  ("Rafael",894,2080),
+  ("Zoe",1208,988),
+  ("Ciara",1021,1583),
+  ("Clayton",471,1104),
+  ("Lareina",1391,1730),
+  ("Derek",2913,946),
+  ("Boris",1028,2186),
+  ("Angela",963,2313),
+  ("Mary",1887,2453);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Risa",845,1853),
+  ("Fritz",1110,1210),
+  ("Jorden",2600,1833),
+  ("Reese",2126,1727),
+  ("May",2938,536),
+  ("Amaya",2091,879),
+  ("Francis",2230,260),
+  ("Irene",2780,852),
+  ("Graham",2984,1819),
+  ("Kathleen",684,1498);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("George",354,594),
+  ("Kennedy",707,1676),
+  ("Marny",260,248),
+  ("Whitney",777,75),
+  ("Juliet",1332,1317),
+  ("John",2183,879),
+  ("Anne",2645,1136),
+  ("Orlando",1920,1654),
+  ("Benedict",2354,879),
+  ("Zenaida",2192,1408);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Fitzgerald",523,2359),
+  ("Wynter",2002,1486),
+  ("Xyla",1128,2440),
+  ("Bryar",18,107),
+  ("Troy",975,1520),
+  ("Denton",957,878),
+  ("Imogene",1365,923),
+  ("Kadeem",181,1498),
+  ("Cassady",571,2177),
+  ("Derek",677,288);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Jonah",432,663),
+  ("Joan",549,2208),
+  ("Eaton",1811,1678),
+  ("Yen",1337,851),
+  ("Lucian",764,220),
+  ("Jemima",1385,354),
+  ("Carolyn",1218,1396),
+  ("Alexandra",21,1013),
+  ("Elliott",1393,1749),
+  ("Sonya",1707,1865);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Dylan",2545,423),
+  ("Lance",25,236),
+  ("Henry",293,945),
+  ("Erich",541,1858),
+  ("Jillian",2866,1099),
+  ("Logan",1717,1476),
+  ("Nerea",1139,2182),
+  ("Jaime",1602,1454),
+  ("Scott",193,2475),
+  ("Forrest",1763,77);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Steven",2684,1258),
+  ("Savannah",2409,484),
+  ("Griffin",2189,1496),
+  ("Shelley",2665,292),
+  ("Grace",798,1106),
+  ("Priscilla",2315,209),
+  ("Flavia",2235,1009),
+  ("Deacon",580,2361),
+  ("Naida",2626,2000),
+  ("Daquan",319,661);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ria",230,1992),
+  ("Ulric",1179,1511),
+  ("Eagan",1102,2048),
+  ("Ramona",251,2442),
+  ("Xantha",619,415),
+  ("Margaret",2383,1606),
+  ("Zena",2845,458),
+  ("Craig",224,449),
+  ("Shad",735,945),
+  ("Beck",1125,775);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tarik",861,1874),
+  ("Wang",699,2041),
+  ("Skyler",477,855),
+  ("Flynn",1736,685),
+  ("Diana",1179,232),
+  ("Charde",510,45),
+  ("Mufutau",926,1695),
+  ("Demetria",2541,871),
+  ("Cody",642,846),
+  ("Ronan",2474,242);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Wyatt",1322,810),
+  ("Willa",1650,2274),
+  ("Tasha",2418,1570),
+  ("Ulla",895,1734),
+  ("Marsden",2788,587),
+  ("Theodore",884,161),
+  ("Nayda",2376,657),
+  ("Vaughan",432,930),
+  ("Kaye",679,628),
+  ("Jeremy",2387,2295);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Elizabeth",1337,2180),
+  ("Veronica",510,1200),
+  ("Bert",2997,1655),
+  ("Jaime",1203,3),
+  ("Vernon",660,1093),
+  ("Buffy",1939,1532),
+  ("Lesley",1445,1185),
+  ("Lucius",1514,935),
+  ("Risa",2782,579),
+  ("Hedley",1449,1370);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ira",1336,2453),
+  ("Jaden",1468,1649),
+  ("Shad",930,1508),
+  ("Kathleen",2283,2293),
+  ("Zoe",742,711),
+  ("Libby",635,1664),
+  ("Oprah",608,469),
+  ("Bree",2817,1308),
+  ("Neil",1877,1238),
+  ("September",939,810);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Martha",1580,564),
+  ("Adam",1966,2120),
+  ("Alika",2914,1618),
+  ("Aaron",2398,1620),
+  ("Calvin",401,1832),
+  ("Bianca",2696,1804),
+  ("Chaim",1267,1433),
+  ("Brent",2093,1703),
+  ("Felix",2393,2416),
+  ("Cathleen",2175,2014);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Malcolm",2203,1344),
+  ("Louis",1526,1867),
+  ("Lane",1589,2416),
+  ("Sean",2796,1920),
+  ("Owen",1877,224),
+  ("Oscar",2054,1315),
+  ("Odysseus",768,149),
+  ("Galena",1801,2498),
+  ("Abra",2867,1393),
+  ("Kimberley",2998,859);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Devin",927,607),
+  ("Azalia",2202,601),
+  ("James",464,198),
+  ("Carla",999,119),
+  ("James",1474,1320),
+  ("Simon",959,293),
+  ("Brooke",1150,565),
+  ("Lacey",2277,24),
+  ("Gary",2522,841),
+  ("Acton",2740,1809);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Duncan",1141,1675),
+  ("Camden",281,1373),
+  ("Roary",204,1126),
+  ("Ian",2231,848),
+  ("Talon",98,357),
+  ("Nita",389,1443),
+  ("Hayden",250,2360),
+  ("Ina",698,1085),
+  ("Sydney",2314,1424),
+  ("Addison",2303,1949);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Uriah",1243,1238),
+  ("Haviva",2503,132),
+  ("Jeanette",736,2336),
+  ("Daniel",503,2106),
+  ("Jemima",2077,1057),
+  ("Chiquita",1166,2156),
+  ("Xanthus",2781,1915),
+  ("Medge",297,2364),
+  ("Danielle",1362,2325),
+  ("Willow",2465,1290);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Tate",1695,2096),
+  ("Levi",2450,1656),
+  ("Signe",1910,204),
+  ("Griffith",2289,2239),
+  ("Aline",2512,1965),
+  ("Nissim",2086,502),
+  ("Winter",2638,920),
+  ("Briar",1235,2118),
+  ("Leigh",1406,216),
+  ("Felicia",1688,1014);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Josiah",40,1860),
+  ("Idona",1743,529),
+  ("Colby",2706,2050),
+  ("Aristotle",2906,1725),
+  ("Freya",313,38),
+  ("Hollee",485,1656),
+  ("Fleur",1867,2385),
+  ("Breanna",1019,134),
+  ("Doris",1873,2228),
+  ("Fitzgerald",1618,1554);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Ila",2523,386),
+  ("Francis",920,172),
+  ("Serena",1042,1864),
+  ("Micah",2055,1034),
+  ("Finn",2407,1059),
+  ("Barclay",1797,1420),
+  ("Courtney",1074,454),
+  ("Jaquelyn",635,2139),
+  ("Keane",2804,799),
+  ("Ethan",361,1391);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Hanae",1289,210),
+  ("Garth",1532,913),
+  ("Sybill",379,2044),
+  ("Jolie",2159,1838),
+  ("Abel",907,747),
+  ("Raphael",1059,1946),
+  ("Reece",618,169),
+  ("Kadeem",2096,1964),
+  ("Abbot",2711,1786),
+  ("Silas",2628,281);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Daria",387,1850),
+  ("Moses",2496,2219),
+  ("Sebastian",1397,2057),
+  ("Halla",2723,516),
+  ("Beck",893,1824),
+  ("Camden",1559,1009),
+  ("Leo",2159,855),
+  ("Charles",335,703),
+  ("Elvis",2788,297),
+  ("Jesse",1447,2267);
+INSERT INTO `tb_filho` (`nome`,`id_pai`,`id_mae`)
+VALUES
+  ("Louis",2012,1238),
+  ("Dylan",2991,1235),
+  ("Anne",388,1163),
+  ("Noble",1290,896),
+  ("Rina",1294,1673),
+  ("Robert",2320,1549),
+  ("Gray",662,153),
+  ("Lydia",1524,692),
+  ("Seth",915,2485),
+  ("Patricia",1717,1597);

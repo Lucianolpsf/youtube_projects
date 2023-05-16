@@ -13,9 +13,9 @@ Repositorio destinado aos projetos aprensentado no canal do youtube do proleatri
 
 |Banco de dados|SGBD| Repositorio | Descrição|
 |-----------|----------|----------|-----------|
-|db_discoteca|MySQL |[aqui](/db_discoteca/)|Desenvolvido para registrar discos, musicas, artistas, gravadoras, e o genero de cada disco.|
+|db_discoteca|MySQL |[aqui](/db_discoteca/)|Desenvolvido para registrar discos, musicas, artistas, tipo de artistas, gravadoras, e o genero de cada disco.|
 |db_discoteca|SQL Server | [aqui](https://github.com/Lucianolpsf/db_discoteca_SQL_SERVER)|Desenvolvido para registrar discos, musicas, artistas, gravadoras, e o genero de cada disco.|
-|db_familia|MySQL |[aqui](/db_familia/)| Banco de dados destinado a registrar mães, pais e filhos de familias.|
-|db_game|MySQL |[aqui](/db_game/)| Banco  de dados destinado a resgistrar jogos, consoles e associar os jogos com seus respectivos consoles.|
+|db_familia|MySQL |[aqui](/db_familia/)| Destinado a registrar mães, pais e filhos de familias.|
+|db_game|MySQL |[aqui](/db_game/)| Destinado a resgistrar jogos, consoles e associar os jogos com seus respectivos consoles.|
 
 </div>

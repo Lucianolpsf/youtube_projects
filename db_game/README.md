@@ -5,8 +5,11 @@ Este banco de dados tem objetivo educacional
 Abaixo você encontrá uma breve descrição dos objetos implementados neste banco e ainda neste repositorio tera acesso ao script da implementanção fisica para que posso estudar e realizar seus proprios testes em SQL.
 
 ## Modelagem lógica
+<div align="center">
 
 ![Modelagem logica db_game](../img/db_game.png)
+
+</div>
 
 ## Constraints padronizadas
 

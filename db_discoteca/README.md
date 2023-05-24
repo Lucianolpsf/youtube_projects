@@ -5,8 +5,11 @@ Este banco de dados tem objetivo educacional e foi desenvolvido junto aos alunos
 Abaixo você encontrá uma breve descrição dos objetos implementados neste banco e o script SQL desenvolvido.
 
 ## Modelagem lógica
+<div align="center">
 
 ![Modelagem lógica db_discoteca](../img/db_discoteca.png)
+
+</div>
 
 ## Chaves primarias de cada tabela
     

@@ -1,4 +1,4 @@
-# DB_FAMILIA DATABASE
+# DB_SILICONE_BALL DATABASE
 ---
 Este banco de dados tem objetivo educacional 
 
@@ -7,24 +7,25 @@ Abaixo você encontrá uma breve descrição dos objetos implementados neste ban
 ## Modelagem lógica
 <div align="center">
 
-![Modelo logico db_familia](../img/db_familia.png)
+![Modelagem logica db_game](../img/db_silicone_ball.png)
 
 </div>
 
 ## Constraints padronizadas
-    
 
-Aqui podemos ver as chaves primarias e suas respectivas tables.
+Aqui podemos ver as chaves primarias e suas respectivas constraints.
     
 |TABLES|PRIMARY KEYS|DEFAULT VALUES|
 |:-|:-:|:-:|
-|tb_pai |id|-|
-|tb_mae  |id|-|
-|tb_filho|id|-|
+|tb_ball |id_ball|-|
 
-## Chaves estrangeiras e seus relacionamentos
 
-|FOREIGN KEYS|CONSTRAINT|RELATIONS|
-|-|-|-|
-|id_pai|fk_id_pai|tb_filho   <---   tb_pai|
-|id_mae|fk_id_mae|tb_filho   <---   tb_mae|
+## Legenda
+
+Para esta database temos as seguintes letras representando o tamanho:
+
+|caracter|word|
+|:-|:-:|
+|g|great|
+|m|medium|
+|s|small|

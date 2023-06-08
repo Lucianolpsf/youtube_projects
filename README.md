@@ -4,9 +4,9 @@ Repositorio destinado aos projetos aprensentado no canal do youtube do proleatri
 
 <div align="center">
 
-[Visite o meu canal no youtube!](https://www.youtube.com/@proletariadovencedor)
+[Visite o meu canal no youtube!](https://www.youtube.com/@proletariovencedor?sub_confirmation=1)
 
-[![Proletariado vencedor](./img/proletariado.png)](https://www.youtube.com/@proletariadovencedor)
+[![Proletariado vencedor](./img/proletariado.png)](https://www.youtube.com/@proletariovencedor?sub_confirmation=1)
 
 
 ## Projetos de banco de dados
